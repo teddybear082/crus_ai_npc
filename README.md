@@ -66,4 +66,6 @@ LlamaGPTJ-chat: https://github.com/kuvaus/LlamaGPTJ-chat
 
 Convai: https://www.convai.com/  (their support to me as someone creating free stuff with a not officially supported engine, Godot, has been truly remarkable!)
 
-Thank you so much to all of the above for creating such technology!!  
+Thank you so much to all of the above for creating such technology!!  '
+
+All licenses for the above are as reflected on their websites/github; nothing contained here is intended to modify their licenses.
