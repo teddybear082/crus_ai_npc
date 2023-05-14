@@ -1,0 +1,86 @@
+Darkworld
+
+Level
+Secret 1
+NPCs
+Sir John Oliver II, Darkworlder Farmer
+Unlocked	Next Secret
+Paradise	Alpine Hospitality
+"Sir John Oliver II, the primordial engine of suffering, the punishment encrypter of the lower planes is bored, again. He has requested us to entertain him by breaking into his mansion and killing him. Simple enough, but nobody who enters ever comes out. Finding an exit might prove to be difficult. Remember to bring a flashlight."
+
+Darkworld is the first secret level in Cruelty Squad.
+
+Contents
+1 Mission
+2 Unlocking
+3 Description
+3.1 Walkthrough
+4 Enemies
+4.1 Standard Enemies
+4.2 Hope Eradicated Enemies
+5 Loot
+5.1 Weapons
+5.2 Equipment and Implants
+6 Fish
+7 Trivia
+8 Gallery
+Powered by AnyClip
+Privacy Policy
+Honest Game Trailers | The Callisto Protocol
+Mission[]
+"Entertain Sir John Oliver II"
+
+Unlocking[]
+To unlock Darkworld, you must have the Divine Light difficulty, and either the Flashlight weapon or Nightmare Vision Goggles. Its painting is located within the mission Paradise.
+
+To get the flashlight, you must kill a Darkworlder enemy on the rooftops at the beginning of Androgen Assault. From the start of the level, take a right, and go through the right alleyway, that leads upwards. Take a left when you see a building without a door, and go through it and through it's window. There will be a ledge on your left, that leads to the building where the Darkworlder is. Simply kill him and take the Flashlight, then finish the level to unlock it. Alternatively, you can use the Grappendix, Abominator, or Icaros Machine to scale the building. The Flashlight weapon is also available in the level Casino Catastrophe, from the weapon slot machine.
+
+Alternatively, you can see in the darkness of both Paradise and Darkworld by the use of the Nightmare Vision Goggles, which provide surprisingly ample vision in darkness, allowing you to take two actual weapons into the level from the get-go whilst maintaining some degree of vision. However, the garish red-black filter the implant causes may make it harder to discern environmental details, and the implant actively obscures your vision in well-lit environments, making navigating to the darkened area of Paradise a challenge. Arguably, however, this is less difficult than switching between the Flashlight and your weapon to deal with the many enemies in the area. A Life Sensor can aid aiming at enemies in the dark when using the Flashlight to illuminate surroundings.
+
+Make sure your Divine Link is established, by beating a level in Punishment or by using the shrines in Archon Grid or Cruelty Squad Headquarters. Then, enter Paradise, and go to the first house on your left, with the pentagram. Work your way through the rooms until you're able to see stairs down to the house's basement. Kill the Flower enemy from atop the stairs and go down. At this point, the screen will darken completely, so get out the Flashlight if using that method. Take a left, and go down the long hallway, opening the Divine Link door at the end. Stay on high alert when traversing through the catacombs, as there are many enemies. Head down the hallway, taking lefts until you enter a room with a hole that leads down to a room with two Zombies. Jump down, and follow the path. Eventually, you'll reach a room that has the painting for Darkworld.
+
+Once you've entered the level once, it will be permanently available from the level selection menu.
+
+Description[]
+Walkthrough[]
+Darkworld begins within a town, similar to Paradise, but much smaller in scale. The entire map is covered in darkness and fog, making it impossible to see without the Flashlight, Cursed Torch, or Night Vision Goggles. Oddly enough, the Bolt ACR's clouds provide a small amount of vision in the dark, making this another good option in terms of equipment. The houses have a variety of enemies, including Darkworlders, Sludge Mongrels, and Zombies. The target, Sir John Oliver II, is located within his mansion, which is straight ahead through the town. There is a large pit between his mansion and the road, which makes getting to it seemingly impossible. However, a ways down the pit is a wooden bridge. The bridge connects his mansion to a cave on the edge of the cliff. The cave can be reached through a tunnel within one of the houses. Alternatively, if you have the Grappendix, Abominator, or Bouncy Suit, you can jump down the cliff and land on the bridge, skipping going through the house.
+
+Once you arrive at the mansion, you can put away the flashlight, as it is illuminated by a dim blue light. There are many Darkworlders inside and around the mansion, and while they may not be very strong on their own, many of them at once can easily overwhelm the player. Take them out quickly, and try to alert as few of them as possible at a time, to make encounters more manageable. You must fight your way through the mansion, all the way to the top, where Sir John Oliver II awaits. When interacted with, he is happy and respectful, with dialogue describing how killing is one of the only respectable professions and how he's excited to see how you will do him in. After killing him, you can jump back down to the front of the mansion from his spire.
+
+The exit for Darkworld is located in a manhole in the bottom floor of the mansion. Facing the front of the mansion, hug the wall around the mansion going right, and enter the first door you see. The room will contain a civilian and a zombie. The manhole will be near the corner of the room.
+
+In Hope Eradicated difficulty, an extra target is added. He is located within one of the houses near the beginning of the level, attached to a farm. The house is filled with many Darkworlders and confusing pathways. Similarly to the mansion, be cautious and pick off enemies instead of trying to engage them all at once. When interacted with, the target talks about how an obsession with a farming simulator video game turned him into a farmer for real. He says it's so much easier than the game because he can hire others to do the work for him. He finishes the conversation with "It's slurpnip season in Darkworld." Aside from the extra target, more enemies are placed throughout the mansion, most notably in the room with the exit manhole.
+
+Enemies[]
+Standard Enemies[]
+Darkworlder
+Darkworld Grunt
+Darkworlder
+Darkworld Heavy Weapons
+Dog
+Dog
+Zombie
+Zombie
+Hope Eradicated Enemies[]
+Fleshman
+Fleshman
+Psycho
+Psycho
+Knifer
+Knifer
+Swamp Cult
+Swamp Sniper
+Loot[]
+Getting an S rank on Darkworld will reward the player with $6,000.
+
+Weapons[]
+In terms of weapons, Darkworld is most notably the home of the BN-99 assault rifle. It is the main weapon used by Darkworlders. Darkworlders can also use the Security Systems Anti-Armor Device. On Hope Eradicated, extra enemies can randomly spawn, who can use a variety of weapons.
+
+Equipment and Implants[]
+Darkworld has one piece of equipment, being the Night-Vision Goggles. They're located in the bottom floor of the mansion. From the front of the mansion, take the bottom left door in, and take each left until you find them laying on a table.
+
+Fish[]
+Glurm
+Darksucker
+Darkfish
+Darkslurper

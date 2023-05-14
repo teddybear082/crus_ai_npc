@@ -1,0 +1,7 @@
+{
+    "name": "Crus-GPT",
+    "author": "teddybear082",
+    "version": "0.0.1",
+    "description": "Adds AI NPC to Pharma level based on GPT4All and Whisper.",
+	"priority": 10
+}

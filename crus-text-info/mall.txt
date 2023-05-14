@@ -1,0 +1,63 @@
+Mall Madness
+
+Level
+5
+NPCs
+Bill Gurney, Second Target, Off Duty Agent
+Enemies
+Security, Police, Necromech, Fleshrat, Zombie, Flower
+Previous Mission	Next Mission
+Androgen Assault	Apartment Atrocity
+"Governor Bill Gurney is going to be hosting a campaign rally in the Cancer City Megamall. He has made a name for himself taking a strong stand against multinational corporations and monopolies. It should be obvious even to a meathead like you that this isn't very good for us. Thankfully our interests align with those of the shadow president and we've been given free hands to do with Bill as we wish. Expect heavy security and keep in mind that the Megamall is ancient and has many forgotten passages."
+
+Contents
+1 Mission
+2 Description
+3 Enemies
+3.1 Standard Enemies
+3.2 Hope Eradicated Enemies
+4 Weapons
+5 Implants
+6 Trivia
+
+Mission[]
+"Remove Governor Bill Gurney from office"
+
+Description[]
+<Coming Soon>
+
+Enemies[]
+Standard Enemies[]
+Security
+Security
+Security
+Security Grunt
+Security, Redefined
+Elite
+Cult of Order Police Department
+Revolver Cop
+Cult of Order Police Department
+Shotgun Cop
+Flower
+Flower
+Necromech
+Necromech
+Fleshrat
+Fleshrat
+Zombie
+Zombie
+Hope Eradicated Enemies[]
+Fleshman
+Fleshman
+Golem
+Golem
+Darkworlder
+Darkworld Heavy Weapons
+Weapons[]
+Necromechs wield AMG4s.
+
+
+A Precise Industry AS15 can be found downstairs in the first dome of the mall, in a Pizza House which is the only open shop on this level of this dome.
+
+Implants[]
+The CSIJ Level IIB Body Armor is in the third dome of the mall, in the shop called Plant Heaven. Simply kill the flower beasts from the balcony above (if you can deal enough damage), then take the flower door to the right and go down to grab the item.

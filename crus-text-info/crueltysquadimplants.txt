@@ -1,0 +1,208 @@
+Head Implants:
+Composite Helmet
+Composite Helmet
+$1000
+Gives the wearer a chance to block all damage on getting hit, but also has a chance of breaking.
+Zoom n Go Bionic Eyes
+Zoom n Go Bionic Eyes
+$1000
+Increases intensity of zooming.
+Life Sensor
+Life Sensor
+$9000
+Living beings are marked with green dots visible in a close range. These are visible through walls.
+Skull Gun
+Skull Gun
+$12000
+A projectile weapon that can be fired by discarding a weapon and firing with an empty hand. You take 1 damage every shot.
+Goo Overdrive
+Goo Overdrive
+Found
+Allows the user to walk on walls.
+Cortical Scaledown+
+Cortical Scaledown+
+Found
+Shrinks the user down to an incredibly tiny size.
+Tattered Rain Hat
+Tattered Rain Hat
+Found
+Sets the weather to rainy, making you able to catch certain fish. Also increases the frequency of bites, and the window of time needed to hook a fish. As a result, taking the Tattered Rain Hat to Casino Catastrophe can be incredibly profitable.
+Eyes of Corporate Insight
+Eyes of Corporate Insight
+$250000
+Increases the tick rate for stock market updates.
+Nightmare Vision Goggles
+Nightmare Vision Goggles
+$10
+Covers the screen in a deep red and black filter.
+Night Vision Goggles
+Night Vision Goggles
+Found
+Turns the screen grey and black, allowing the user to see in the dark.
+Holy Scope
+Holy Scope
+Found
+Intensifies the saturation of the screen, but it does allow you to see a certain secret.
+Flowerchute
+Flowerchute
+Found
+Allows the player to glide slowly down.
+
+
+
+
+
+Chest Implants:
+CSIJ Level II Body Armor
+CSIJ Level II Body Armor
+$1000
+Armor 10%
+CSIJ Level IIB Body Armor
+CSIJ Level IIB Body Armor
+Found
+Armor 15%
+CSIJ Level III Body Armor
+CSIJ Level III Body Armor
+$3000
+Armor: 20% - Speed: -1
+CSIJ Level IV Body Armor
+CSIJ Level IV Body Armor
+$5000
+Armor: 50% - Speed: -3 - Jump Bonus: -5
+CSIJ Level V Biosuit
+CSIJ Level V Biosuit
+$99999
+Armor: 40% - Places a fleshy filter over the screen, obscuring the UI and reducing visibility.
+Also, you can't talk to anybody while you wear the flesh suit, they'll immediately run away. [1]
+CSIJ Level VI Golem Exosystem
+CSIJ Level VI Golem Exosystem
+Found
+Armor: 40% - Sets Health to 200 - Instead of starting with weapons, you are placed in a mech with two arms capable of punching enemies. While in the mech you cannot kick.
+Tactical Blast Shield
+Tactical Blast Shield
+$6000
+Negates explosive damage. This allows for explosion jumping.
+Load Bearing Vest
+Load Bearing Vest
+$1200
+Adds 1 extra magazines' worth of ammo to both of the weapons you spawn with.
+Hazmat Suit
+Hazmat Suit
+Found
+Grants immunity to the Toxic Crisis status.
+Military Camouflage
+Military Camouflage
+$1000
+Slightly decreases the range of sight of enemies, helps against snipers.
+Stealth Suit
+Stealth Suit
+$12000
+Decreases the range of sight of enemies, to roughly 2/3rds of the fog's range on Bog Business.
+Bouncy Suit
+Bouncy Suit
+Found
+Negates fall damage, sending the user bouncing upon landing on a horizontal surface.
+Extravagant Suit
+Extravagant Suit
+$500000
+You die upon taking damage from anything.
+Biothruster
+Biothruster
+$10000
+Replaces your kick with a thruster that pushes you forward when used.
+Biojet
+Biojet
+Found
+Replaces your kick with a thruster that pushes you gently upward, with no limit.
+
+
+
+Arm Implants:
+HE Grenade
+HE Grenade
+$1000
+Small explosive grenade.
+Flechette Grenade
+Flechette Grenade
+$2000
+Grenade that explodes into flechettes.
+ZZzzz Special Sedative Grenade
+ZZzzz Special Sedative Grenade
+$1000
+Grenade that puts enemies to sleep.
+First Aid Kit
+First Aid Kit
+$3000
+Heals for 50 Health on use.
+Zomy X-200 Portable Cassette Player
+Zomy X-200 Portable Cassette Player
+$200
+Upon activation, a cassette player is thrown out that plays song from a random level.
+Augmented Arms
+Augmented Arms
+$1000
+Increases throwing power.
+Abominator
+Abominator
+Found
+Inverts gravity when activated.
+Grappendix
+Grappendix
+$50000
+Sends out a grappling hook-esque organ that allows you to use momentum to grapple to and then swing from anything it can grab to.
+Angular Advantage Tactical Munitions
+Angular Advantage Tactical Munitions
+$1500
+Allows bullets you fire to ricochet from surfaces, allowing you to hit multiple targets (sometimes inadvertently including yourself) with one shot.
+Ammunition Gland
+Ammunition Gland
+$10000
+Instead of reloading, ammo passively regenerates.
+Cursed Torch
+Cursed Torch
+Found
+Activates the Cursed death state upon loading into a level. This can be undone by getting Divine Light by beating a level on Punishment or accessing one of the two Divine Light shrines across the game.
+
+
+
+Leg Implants:
+Speed Enhancer Gland
+Speed Enhancer Gland
+$1000
+Speed boost of 1 but -10% armor.
+Speed Enhancer Node Cluster
+Speed Enhancer Node Cluster
+$3000
+Speed boost of 2 but -50% armor.
+Speed Enhancer Total Organ Package
+Speed Enhancer Total Organ Package
+$6000
+Speed boost of 4 but -100% armor.
+Alien Leg Wetware
+Alien Leg Wetware
+$4000
+Increased kick power.
+Pneumatic Legs
+Pneumatic Legs
+$3500
+Increased jump ability.
+Vertical Entry Device
+Vertical Entry Device
+$7000
+Dramatically increased jump ability, high enough to clear fences.
+Icaros Machine
+Icaros Machine
+Found
+Extremely increased jump ability. Even jumping straight up and down will cause fall damage. Always jump to higher terrain or use in conjunction with the Bouncy Suit.
+Gunkboosters
+Gunkboosters
+$10000
+A double jump.
+Funkgrunters
+Funkgrunters
+Found
+A triple jump.
+Microbial Oil Secretion Glands
+Microbial Oil Secretion Glands
+Found
+A movement modifier that allows for incredible speeds paired with the feeling of moving on ice.

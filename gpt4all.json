@@ -1,0 +1,10 @@
+{
+"top_p": 0.95,
+"top_k": 40,
+"temp": 0.50,
+"n_batch": 9,
+"threads": 4,
+"n-predict" : 1000,
+"no-interactive": "true",
+"remember": 400
+}

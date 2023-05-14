@@ -1,0 +1,131 @@
+Archon Grid
+
+Level
+12
+NPCs
+Abraxas, Grid Golem, Secret Guy
+Previous Mission
+Office
+"You're almost there. You can congratulate yourself now. You're the best. The home stretch. Ah. So nice, feels good. Welcome to the ULTIMATE PUNISHMENT, my friend."
+
+Contents
+1 Mission
+2 Description
+2.1 Walkthrough
+2.1.1 First Area
+2.1.2 Puzzle Section
+2.1.3 Before Abraxas
+2.1.4 Fighting Abraxas
+2.1.5 Ending Cutscene - "Entrapment"
+3 Enemies
+3.1 Standard Enemies
+3.2 Hope Eradicated Enemies
+4 Weapons
+5 Implants
+6 Fish
+7 Trivia
+Ad: (10)
+1
+Powered by AnyClip
+Privacy Policy
+Honest Game Trailers | BioShock Infinite
+Mission[]
+"Disable the Archon Grid"
+
+Description[]
+Walkthrough[]
+First Area[]
+The first section of the level is a room filled with many NPCs walking around. Near the door to continue is a room with a Divine Light Shrine inside. After this room leads to an empty room with copies of Gorbino's Quest sitting on the windowsill overlooking a spinning block with "PUNISHMENT" on it. After this area is a platforming section where you will have to make some relatively easy jumps to reach the next section.
+
+Puzzle Section[]
+The second area is a collection of puzzles with many civilians, some enemies, and Grid Crabs that cannot be killed. These puzzles can be solved to access the area with the Holy Scope. After these puzzle rooms, there is a single room with two Psychos and a Rubber Sniper inside. The easiest method to beating this room is to pop out from behind the rocks in front of you and quickly pop back in so the Psychos don't mess with you too much.
+
+Before Abraxas[]
+The last room before fighting the final boss is very tricky due to the small size and high concentration of Rubber Grunts with AMG4s inside. Be sure to bring either the Security Systems Anti-Armor Device or the Riot Pacifier to deal with this room easily.
+
+Fighting Abraxas[]
+This fight is relatively simple, as long as you can move quickly. You have to shoot the three "heads" on Abraxas to kill him, a fully automatic weapon does this most effectively. After killing Abraxas, you simply walk to a tunnel behind his corpse to end the level.
+
+Ending Cutscene - "Entrapment"[]
+Upon reaching the exit, the level finishes, and the first ending plays. The ending starts with the player walking through a tunnel towards a brick wall, which the player then breaks. An expansive, seemingly endless field is on the other side, with some civilians walking around. If the player walks into any of the civilians, they gib instantly. A white sun shines up above and rocks back and forth, and a pillar seems to get slightly taller as the player walks toward it. Some text appears as the player walks, which reads as follows.
+
+"YOU EMERGE FROM A LONG AND WEARY SLEEP."
+
+"THE WORLD APPEARS AS A LARGE FLAT PLANE OF OPPORTUNITY."
+
+"THE SKY IS BOUNDLESS AND BLUE."
+
+"YOU ARE AMONG FRIENDS."
+
+"THE AIR IS FRESH WITH THE SCENT OF THE OCEAN."
+
+"YOU HAVE LEARNED ACCEPTANCE AND FORGIVENESS."
+
+"BUT YOU LACK KNOWLEDGE AND UNDERSTANDING."
+
+"YOU WILL BE TRAPPED FOREVER."
+
+"THE PAST IS EVER-PRESENT."
+
+"THE SUN SMILES AT YOU WITH ETERNAL MALICE."
+
+Enemies[]
+Standard Enemies[]
+Gore Grunt
+Gore Grunt
+Dog
+Dog
+Psycho
+Psycho
+Knifer
+Knifer
+Rubber Cult
+Rubber Grunt
+Rubber Cult
+Rubber Sniper
+Security, Redefined
+Elite
+Cult of Order Police Department
+Revolver Cop
+Cult of Order Police Department
+Shotgun Cop
+Swamp Cult
+Swamp Cultist
+Swamp Cult
+Swamp Sniper
+Grid crab
+Grid Crab
+Abraxas
+Abraxas [Hostile Target/Boss]
+Hope Eradicated Enemies[]
+Shock Trooper
+Flesh Trooper
+Darkworlder
+Darkworld Grunt
+Darkworlder
+Darkworld Heavy Weapons
+Golem
+Golem
+Cloaked Gunman
+Cloaked Grunt
+Cruelty Squad (Enemy)
+Cruelty Squad Grunt
+Grid Golem
+Grid Golem
+[Hostile Target]
+Weapons[]
+K&H X20
+
+AMG4
+
+Implants[]
+The Holy Scope can be found by solving all the block puzzles from the start (push the bluish blocks onto the bluish tiles), and then crossing a very long obstacle course. Alternatively, the Grappendix can be used to bypass the block puzzles and enter the obstacle course directly.
+
+Fish[]
+Slurper
+Fish
+Mistake
+Cubert
+Sunfish
+Dead Fish
+Success

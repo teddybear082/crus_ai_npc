@@ -1,0 +1,75 @@
+Pharmakokinetiks
+
+Level
+1
+NPCs
+Sigismund, Jerry, Misery Room Man, Death Procedure Receptionist, Third Target, Escaped Janitor
+Previous Mission	Next Mission
+Cruelty Squad Headquarters	Paradise
+
+"Sigismund of the Pharmaceutical Department has been embezzling company funds and using them to gamble with highly speculative biological currencies. This would already be bad enough to warrant his immediate liquidation but he has also become increasingly deranged, flying into fits of rage and vomiting blood all over the office. While you're there you should also dispose of his accomplice, Jerry. He's scheduled to be hosting a meeting in the conference room with other executives."
+
+Contents
+1 Mission
+2 Description
+3 Enemies
+3.1 Standard Enemies
+3.2 Hope Eradicated Enemies
+4 Weapons
+5 Fish
+6 Trivia
+Mission[]
+Kill the traitors Sigismund and Jerry.
+
+Ad: (10)
+1
+Powered by AnyClip
+Privacy Policy
+Honest Game Trailers | Metroid Prime (2023 Remaster)
+Description[]
+You begin the mission facing the building. There are a couple of buildings you can enter outside of it, but the majority of the mission takes place inside. There are generally four ways in: the front door, the side door, the top floor windows, and the top floor vent. Entering from the front door there is a main lobby ahead, and a stairway upstairs to the right, with guards both ways. The main lobby has two guards, each with a hound. Straight ahead is a stairway up to the second floor, where a guard waits behind a desk, and two guards stand between you and the board room. There's also a guard in the board room, with the target and all the NPCs.
+
+Going to the side door of the building requires either a way to destroy the cracked door in the fence, or an ability to bypass the fence itself. Inside the first side room there's a guard, and straight ahead is another room with another guard, and a door leading back to the main lobby. The other door from this room leads to a weird hallway full of hounds, ending in a vent that opens up into the bathroom by the boardroom. Back to the first side room, there's another door there leading to a security room with a guard. Past him there's a mostly empty room and a staircase leading up.
+
+This area has two well-armed guards, and contains the doors to a side room full of Fleshrats and a Toxic Dame. The other door on this level leads to a vent directly into the boardroom.
+
+The top floor has three guards and a hound in the first section, and two more guards in the next, with a final heavy guard in the bathroom. The top floor is mostly open, so keep in mind the guards may be able to shoot you whichever section you're in. Also, the top floor vent leads into the bathroom. One of the offices on this floor holds a mission target.
+
+Enemies[]
+Standard Enemies[]
+Security
+Security
+Security
+Security Grunt
+Dog
+Dog
+Security, Redefined
+Elite
+Fleshrat
+Fleshrat
+Knifer
+Knifer
+Hope Eradicated Enemies[]
+Darkworlder
+Darkworld Grunt
+Darkworlder
+Darkworld Heavy Weapons
+Fleshman
+Fleshman
+Psycho
+Psycho
+Golem
+Golem
+Weapons[]
+Guards here carry Parasonic D2 Silenced Pistols, K&H R5s and K&H X20s.
+
+The Balotelli Hypernova shotgun can be found in the room on the second floor that Sigismund is found in.
+
+A Security Systems Anti-Armor Device is on top of the tree across from the conference room. Requires either a way to get up very high, or going through the Divine Link door on floor 2, in a room directly right to the target room.
+
+The Parasonic C3 DNA Scrambler is located in a room at the end of the alley next to the main building. The doorway is very high up, requires the Grappendix, Icaros Machine, or many stacked barrels.
+
+Fish[]
+Poolsucker
+Drimp
+Brainy

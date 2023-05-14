@@ -1,0 +1,67 @@
+Cruelty Squad Missions Overview
+
+Missions are the main playable levels of Cruelty Squad.
+
+Contents
+1 Gameplay
+1.1 Mission Results and Rank
+1.2 Mission Categories and Additional Times
+2 Main Missions
+3 Secret Missions
+4 Trivia
+Gameplay[]
+The goal of every mission is to assassinate a target or targets, and then leave the area through a designated exit. The specifics of every mission are supplied to you by the Handler, who usually gives a lengthy explanation of the area the player is going to and why they must kill the targets. Additionally, there is a text box underneath of the Handler that gives a brief set of objectives. Targets can be regular passive NPCs with complete dialogue, or enemies, ranging from simple humanoid gunmen to armored golems. Completing a mission awards the player money.
+
+If you die in a mission, you lose $500, unless you are playing on the Power in Misery difficulty. Additionally, any weapons you picked up and progress within the mission will not be saved. However, any implants found, fish caught, and all stock market updates will save regardless of if you complete a mission before dying, restarting, or exiting. The stock market will also react to progress made throughout the missions, since many targets are executives of companies. For example, beating the level Paradise will cause the stock for G-TECH to fall to almost nothing, as the owners of the company have been killed.
+
+While playing on the Hope Eradicated difficulty, almost every mission will feature new, stronger enemies, as well as an additional target to kill. No information is supplied on the additional target by the Handler, but the objectives box will include an extra line of "???" at the bottom.
+
+The level select screen also features a toggleable option known as "Punishment" mode. While in Punishment mode, enemies will deal twice as much damage to the player, but completing the mission will reward twice as much money. The first time a mission is completed on Punishment mode, the player's difficulty will be set back to the default "Divine Light" difficulty.
+
+Mission Results and Rank[]
+
+Mission Rank icons, from left to right, S, A, B, C.
+
+After completing a mission, a results screen appears, detailing the number of enemies killed, civilians killed, mission payment, time, and a letter grade. The letter grade and payment received are based entirely on the time spent in the mission. The best letter grade is an S, followed by A, then B, then C.
+
+Mission Categories and Additional Times[]
+In the level select screen, every mission has multiple times listed under it. Each mission has four different times, and are as follows.
+
+Green - Fastest time
+Purple - Fastest time while starting with the default weapons (Parasonic D2 Silenced Pistol,K&H R5,SNOOZFEST Animal Control Pistol,Expandable Baton)
+Red - Fastest time while playing on Hope Eradicated difficulty
+Blue - Fastest time while starting with the default weapons on Hope Eradicated difficulty
+Every category has it's own rankings and own timings, which will vary depending on the difficulty of the category. For example, an S rank on a level may require it to be beaten in one minute or less, but while on Hope Eradicated, it may increase to 1:30, to compensate for the additional difficulty. Multiple times can be set at once, specifically the "default weapons" times and their "any weapons" counterparts (Green and Purple, Red and Blue). However, the normal and Hope Eradicated times cannot be set simultaneously, even if you are playing in Hope Eradicated and complete the level faster than your Green time. This means at a minimum, you will have to complete every level twice, once using default weapons on the normal difficulties, and once using default weapons on Hope Eradicated.
+
+
+From left to right: Time N/A, Punishment not completed, Punishment completed
+
+If a time has not been set yet for a category, it will be displayed as N/A, and will have a special icon shaped like an X. The level select screen also has an additional fifth icon, representing if Punishment has been completed for the mission. If it has been completed, a skull will be displayed, and if not, only the eyes of the skull will.
+
+
+Main Missions[]
+Main Missions are unlocked sequentially; beating one unlocks the next. By default, both Cruelty Squad Headquarters and Pharmakokinetiks are available, the former acting as a tutorial.
+
+Cruelty Squad Headquarters
+Pharmakokinetics
+Paradise
+Sin Space Engineering
+Androgen Assault
+Mall Madness
+Apartment Atrocity
+Seaside Shock
+Bog Business
+Casino Catastrophe
+Idiot Party
+Office
+Archon Grid
+
+Secret Missions[]
+Secret Missions are usually unlocked through finding paintings hidden within main missions and jumping through them. For more information on how to unlock secret missions, check the individual mission pages.
+
+Darkworld
+Alpine Hospitality
+Miner's Miracle
+Neuron Activator
+House
+Trauma Loop

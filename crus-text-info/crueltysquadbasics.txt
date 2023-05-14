@@ -1,0 +1,106 @@
+WHAT IS CRUELTY SQUAD?
+
+Cruelty Squad is an immersive power fantasy simulator with tactical stealth elements set in a sewage infused garbage world.
+
+It is a tactical first person shooter set in the hardcore gig economy of corporate liquidations. 
+
+The player is an emotionally dead combat-substance fueled grunt of Cruelty Squad, a depraved subsidiary company tasked with performing wetworks for its host conglomerate. 
+
+Cruelty Squad, while appearing simple on the surface, has a variety of complex game mechanics.
+
+Basics
+
+As a corporate liquidator, your objective is to find and kill your designated targets then leave the level by walking to an EXIT area. How and when you do it is up to you. Your targets are always indicated by a crosshair overlaid on your HUD and will be guarded by hostile creatures that will attack you on sight. These enemies are passive at first and an eye indicator will appear on the left of your screen when you are being detected, enabling some form of stealth approaches.
+
+Levels are large, encourage exploration and provides multiple paths to the targets and to a variety of secrets, some of which will require specific equipment, weapons or even difficulty modes to be accessed.
+
+Death
+
+Your health is indicated by the top left HUD indicator. When it reaches 0 or less, a 5 seconds countdown will begin before your body presumably self-destructs, however if your health drops below -40 then the countdown will be skipped and you will immediately die. This countdown can occasionally save you when you make your run to the exit, however. Dying will cost you money (Except in Power In Misery difficulty mode) and can also lower the difficulty level itself, This will be indicated by the message appearing on the left on the death screen.
+
+You always restart at the beginning of the level, there is no quicksaving or checkpoints. Weapons are not saved as they need to be brought back to the exit, however you do keep the organs, fish and implants you collected.
+
+Difficulty
+
+There are four main difficulty modes within the game. At first, the player has very little input on what difficulty they are playing at, but as you progress through the game, changing between the states becomes easy. Three of the four difficulty settings come with special doors that can only be opened while playing on that setting.
+
+Divine Light
+
+Divine Light is the default difficulty of the game, and the game's second hardest setting. On Divine Light, enemies deal full damage to the player, with little other changes. The game's border sports a robotic silver scheme with red details.
+
+Divine Light has three difficulty doors.
+
+Firstly, in Pharmakokinetiks. On the second floor of the building, in the room perpendicular from the room Sigismund is in. Opening it allows you to obtain a money pick up and the Security Systems Anti-Armor Device, as well as land right next to Jerry, the other target.
+Secondly, in Paradise. In the basement of the first house to your left from spawn, this door leads to the catacombs area of the map, where the Cursed Torch implant and the painting to Darkworld reside. You can also access this area using the Cortical Scaledown+ implant to drop through a grate near the spawn point
+Lastly, in the elevator shaft of Idiot Party. The door leads to the painting to Neuron Activator, and is the only Divine door you cannot bypass.
+
+Divine Light is lost after dying once with it enabled. After you die, you will be put on the "Flesh Automaton" difficulty. You can restore Divine Light by going to a Divine Light Shrine, of which there are two in the game.
+
+The first is in Archon Grid. Take two rights from spawn, and it's in the first room, right at the beginning of the level.
+The second is in Cruelty Squad Headquarters. Go behind the receptionist, and into the room in the back with the janitor. Move the barrels out of the way with the "use" key, and travel through the vent, past the toxic water, and up the ladder. When you reach the top, you will be in an attic-like room with a fleshrat that looks like the Zippy 3000. Once you're here, you need to be wearing the Holy Scope implant, or set your game's resolution to 640x480. Once you do, a secret room will open up that contains a Divine Light shrine.(it is hinted towards by an npc inside archon grid.)
+
+You can also restore Divine Light by beating a level on Punishment Mode for the first time.
+
+Flesh Automaton
+
+Flesh Automaton is the second easiest of the four difficulties in the game, and is enabled after dying once while on the Divine Light setting. On this difficulty, enemies deal half the damage they normally do to the player. Flesh Automaton has no special doors, and no other gameplay modifiers. In this state, the game's border takes on a half fleshy, half robotic state. After dying in the same level four times, the difficulty is changed to Power In Misery.
+
+Power In Misery
+
+Power In Misery is the easiest difficulty in the game, and is enabled after dying four times in the same level while on Flesh Automaton difficulty. When your difficulty is changed, the death screen changes to display a message regarding your state. It reads, "Due to your wasting of company resources by hogging the genetic recombinator, you've been selected to participate in an experimental biological enhancement program. All your debt is cleared and from now on your body will regenerate by itself. Can't say I envy you though."
+
+On this difficulty, enemies deal half the damage they normally do to the player, and the player can activate corpses with the "use" key to eat them, restoring one health. In this state, the game's border is entirely fleshy. Power in Misery has a single door, located near the exit in Pharmakokinetiks. Inside is an NPC, who also seems to be in the Power in Misery state, who has dialogue talking about how eating corpses can save money and that reversing the process is unlikely. He also says that, sharing the same condition, the player is now family to him. Along with the fisherman, it's one of the very few friendly interactions present in the game.
+
+Hope Eradicated
+
+Hope Eradicated is the secret hardest difficulty in the game. On this difficulty, every level is changed to add an extra target, extra enemies, and randomized high-tier enemies. Enemies deal full damage to you, and the games border takes on a jarringly different black and blue scheme. The sky also becomes red, and the face of The Archon becomes visible in the sky in place of the sun. After fighting The Triagons and experiencing the LIFE ending, the sky will instead be green and purple, with the three Triagons looking down upon the world.
+
+There are three ways to enable Hope Eradicated, two of which involve a shrine.
+
+The first shrine can be found on Archon Grid, at the end of the obstacle course where the Holy Scope implant is.
+The second shrine is in the Cruelty Squad Headquarters, in the same location as the Divine Light shrine.
+The last way to enable Hope Eradicated is to enter a level while the Cursed Torch implant is equipped. The Cursed Torch can be found in Paradise.
+
+Additionally, there are three doors that require Hope Eradicated difficulty to enter in the game.
+
+Firstly, in Pharmakokinetiks. In front of the main entrance to the building is a secret door to a store known as "Pure Optics." The door is within Pure Optics and allows you to obtain DEATH mode.
+Secondly, in Androgen Assault. In the room with Mark (the Bouncy Castle), go into the room with the ceiling light and break the vent on the wall and crawl through. After spiraling around the fleshy room, kill the Psycho and climb the latter up to the room with the "Hope Eradicated" door. Inside the room is the Cortical Scaledown+ Implant and the additional target for the mission.
+Lastly, in Cruelty Squad Headquarters. The cursed door is to the left of where you enter the building, and leads to the second half of the level. DEATH mode can help to pass through the hallway following the door.
+
+The only way to exit Hope Eradicated is to use a Divine Light shrine.
+
+Additional Modifiers
+
+These modifiers can be triggered on and off at will in the Level Selection menu.
+
+Punishment
+
+Punishment Mode is a modifier that makes enemies deal twice as much damage, but the mission will reward with twice as much money. Additionally, completing a level on Punishment Mode for the first time will restore your difficulty back to Divine Light. A skull icon will be present on the level select screen when a level has been cleared on Punishment Mode.
+
+Chaos
+
+Unlocked after beating Trauma Loop, Chaos makes more enemy variants spawn. Modifiers can be placed on any enemy, and include invisibility, armor, and gaseous explosions on death. It is so far unknown if Chaos provides any benefits to the player. Additionally, multiple targets are added.
+
+DEATH Mode
+
+DEATH Mode is a permanent, irreversible change to the player, that provides a few small benefits. It is unlocked in Pharmakokinetiks, and requires Hope Eradicated. Upon entering the Pure Optics building, a new friendly NPC appears, who tells you that he's been expecting you, and you're coming in for a procedure. Telling you to head down the hallway and use an object called the "soul emulator," he tells you the results are truly "life-changing." Going through the cursed door and interacting with the object replaces the standard green gooey "LIFE" indicator with a purple, spiky "DEATH" indicator. Death mode has three main effects.
+
+Firstly, you gain a static +0.1 speed boost.
+Secondly, you gain the ability to wall-jump. Wall-Jumps are executed by jumping while sliding down a wall, and propel you with great momentum.
+Lastly, you become immune to certain effects, such as the Bolt ACR's Gamma Radiation Clouds and Cruelty Squad Headquarters' hallway. This can be used to beat Cruelty Squad Headquarters instead of needing Goo Boost.
+
+
+Stock Market
+
+
+There is a stock market simulation built into Cruelty Squad which acts as the primary method for acquiring money.
+
+Trivia
+Hope Eradicated enemies have a slight chance of appearing on the other difficulties. (Yes, this means you can meet a Golem as early as in Pharmakokinetiks).
+Trying to open difficulty doors while on different difficulty settings provides different status messages.
+Being unable to open a Power in Misery door will provide the message "It repulses you." in dark green text, as well as pushing you back an inch.
+Being unable to open a Divine Light door will provide the message "Feels like something is missing. It won't budge." in white text. If on Hope Eradicated, it will instead say "It hurts." four times in red text.
+Being unable to open a Hope Eradicated door will provide the message "XVHVHIVD DIDV IDVDKDAEUI DOVHDUHEKS VDUIHKED." in red text.
+The difficulty names are essentially conjecture based on the status messages and death images provided. They have no official names.
+Divine Light is seemingly interchangeable with "Divine Link," as the game uses both to refer to the state.
+Hope Eradicated is also sometimes called "Cursed," because of the Cursed Torch item.

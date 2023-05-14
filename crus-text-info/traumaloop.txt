@@ -1,0 +1,140 @@
+Trauma Loop
+
+Level
+Secret 6
+NPCs
+Ambassador, Limit Chancellor
+Unlocked
+See Unlocking
+
+Trauma Loop is the final mission of Cruelty Squad.
+
+"As a successful member of society with a stable unflinching psyche and limitless drive, natural affinity for finance and domination, you have been selected, no, you have been effortlessly guided by divine (biological) trauma towards this moment. The gates of destiny fling open, and once again you're left standing on pulsating nothingness. A strobing headache of the soul."
+
+
+Contents
+1 Mission
+2 Unlocking
+3 Enemies
+3.1 Standard Enemies
+3.2 Hope Eradicated Enemies
+4 Walkthrough
+4.1 Left Path
+4.2 Right Path
+4.3 The Bottom
+4.3.1 Limit Chancellor
+4.4 Hope Eradicated
+5 Loot
+5.1 Weapons
+5.1.1 Abscess Ironworks Lux ff374f727ce9d6de93be0793733c321
+5.2 Equipment and Implants
+6 Ending Cutscene
+7 Fish
+8 Trivia
+9 Gallery
+Powered by AnyClip
+Privacy Policy
+Honest Game Trailers | Dead Space (Remake)
+Mission[]
+"Locate the Cradle of Life"
+
+Unlocking[]
+To unlock Trauma Loop, you have to complete every mission in the game. This includes all main levels, all secret missions, House, and Cruelty Squad Headquarters. Once you've done it, Trauma Loop will be available on the bottom-left corner of the level selection screen.
+
+Enemies[]
+Standard Enemies[]
+Skeleton Army
+Skeleton Nailer
+Skeleton Army
+Skeleton Sniper
+Skeleton Army
+Skeleton Heavy Weapons
+Golem
+Golem
+Golem
+Worm Golem
+Fleshman
+Fleshman
+Fleshrat
+Fleshrat
+Fleshrat
+Giant Fleshrat
+Fleshrat
+Armored Fleshrat
+Zombie
+Armored Zombie
+Flesh Pig
+Flesh Pig
+Flesh Pig
+Armored Flesh Pig
+Psycho
+Ambassador
+Limit Chancellor
+Limit Chancellor
+Necromech
+Trauma Mech
+Hope Eradicated Enemies[]
+Flesh Pig
+Giant Flesh Pig
+Necromech
+Godmech
+Walkthrough[]
+Trauma Loop is easily the most challenging and complex level in the game, and will undoubtedly take even the most skilled players many attempts to complete. There are many different branching paths, secret entrances, and difficult enemies. To top it all off, when you first enter the level, any Equipment & Implants you have equipped become nonfunctional. There is no target or exit within Trauma Loop, and to finish the level, you must reach the "Cradle of Life," which appears as a large, pulsating orb on the bottom section of the level. Standing underneath the orb will finish the level and trigger the third ending.
+
+The start of the level is a simple room, which leads into a large cathedral-like hallway. From here, there are two paths to take. No matter which path you take, the level exists entirely within the "top" section of the level. Falling off will cause the player to fall into a kill plane, preventing them from making it down to the "bottom" section of the level, where the Cradle of Life resides. The "bottom" section of the level can be reached through specific paths through the mazelike level.
+
+Left Path[]
+The path to the left leads to a room with bookcases and an elevator. Once descended, the elevator leads to a cavern, with a giant Fleshrat at the end. From here, the level proceeds to a stone-like structure, resembling a castle. Security Redefined enemies populate the castle, mostly using the Parasonic MP-1 Nailer, although a few use the Mowzer SP99. From here, you can go into the bottom of the fortress, or to an entrance closer to the right side.
+
+The bottom of the fortress leads to corridors populated by armored Zombies who sport much higher health to boot. Navigate your way through the paths and you will find a hole. Surviving the fall requires either the use of implants, accurate positioning, or clever use of the wall jump ability given by DEATH mode.
+The entrance closer to the right side of the fortress leads to more rooms with Security Redefined. There is a spiral staircase up, that leads to the top of the fortress, where an NPC named the "Ambassador" resides. The Ambassador is a Psycho using a ZKZ Transactional Rifle. Before reaching the top of the staircase, it is recommended to temporarily sell any stock, body part or fish you are holding, as his weapon's power scales with your total holdings, regardless of who is wielding it. Once he is killed, he will never respawn, even in future playthroughs of the level. After dealing with The Ambassador, returning to the room before the spiral staircase will reveal multiple other doors. These doors lead into a confusing labyrinth of small rooms, with multiple Golems. Rooms placed above others will have false floors, causing the player to fall right through. There is a button in a blue room that causes a trapdoor to open in an adjacent room. To get to the trapdoor from the blue room, you must go one room up, then to the left, then back down a floor, and into the room that's all black. From here, climb the stairs and enter the door on the right side to reach the room with the trapdoor. Follow the path down, and past a Necromech, to reach a room with an elevator. After the slow descent, you'll be at the bottom of the level.
+Right Path[]
+The right path leads to a room that requires the use of wall-jumping to ascend. Wall-jumping is only possible with the DEATH health indicator from Pharmakokinetics. After getting up, you are faced with a room that is covered in spikes, with the only way to proceed being spinning platforms. Go forwards, and then right, and you'll see a door. This door leads to a large outdoor platforming area which is guarded by a Psycho sniper known as the Ambassador. The ZKZ Transactional Rifle he is holding deals more damage the more you have invested in the Stock Market, so selling all your stocks, body parts and/or fish should be your priority before even considering tackling this section while he is still alive. Once you are no longer holding anything, he will still mess with your vision upon spotting you (being a Psycho), so killing him by going through the Left Path (see above) is recommended regardless. There's a ladder down on your left. You can jump down to the next section without the ladder, but you will take fall damage. After another small rotating platform challenge, you'll reach a section that requires precise wall-jumps to pass. Once passed, the level shifts into a series of wooden rooms, similar to the wooden shacks from Bog Business. Security Reimagined are around every corner, still using the Parasonic MP-1 Nailer and the Security Systems Anti-Armor Device. Proceed down the hole, and kill the Security Reimagined behind you, before going through the door on the left. Another enemy will be waiting for you to your right, so peak through the door way and kill him before proceeding through. The same is true for the next doorway, and four Security Reimagined guards will be northeast of you. After disposing of them, you can walk across the skybridges into a wooden complex, that once again has 3 guards. Be sure not to fall into the hole in the middle, and proceed into the next room, which has a Fleshman. After killing the Fleshman, jump down the hole in the middle of the room, into a huge vat of Toxic Water. Since you'll be taking damage from the Toxic Shock, be sure to have more than 45 health before this point to survive it. While swimming down the vat, make sure to position yourself over a wooden board at all times, since there is no indication for when the liquid will end. Don't worry about being fast, either, because toxic water only inflicts toxic shock once. Once you're out of the water, continue to make your way down the boards, until reaching a small hallway that leads to a ledge. There is a Psycho on the ledge and a ladder down to the floor of the large room. There is only one path from here, and it leads to a room with a large hole and a ladder down. Descend the ladder and you'll be lead to the bottom path.
+
+The Bottom[]
+The bottom of Trauma Loop is an extremely large, dark plane. Random hills, pools of Toxic Water, and strong enemies dot the area. The best way to proceed through this area is to run like hell, dodging enemies and bunny hopping around the terrain as fast as you can. If you're coming down from the elevator (left path), the Cradle of Life is directly behind the huge elevator tower, and is easy to get to. If you're coming down from the ladder (right path), the Cradle of life is more or less straight ahead. Just follow the path in-between the mountains, and eventually you'll see the tower from the left path. To finish the level, stand beneath the orb, and the ending cutscene will play.
+
+The Golem and Fleshpigs in this area have high health, but very low armor, so the most efficient way to kill them is to strip their armor with a short burst from an armor-piercing automatic weapon, then quickly finish them off with a high-powered weapon such as the Parasonic C3 DNA Scrambler or ZKZ Transactional Rifle.
+
+Limit Chancellor[]
+In the bottom of the level is an NPC known as the Limit Chancellor. Killing him allows you to use your implants on the level in future runs. Starting at the tower from the left path, go forwards until you hit a wall, then hug the wall and walk right, and eventually, the wall will lead into an alcove. Inside the alcove is the Limit Chancellor. He is easy to identify, as he has a large blue aura on his head, that can be seen from any distance. When approached and interacted with, he has one line of dialogue, consisting of laughing.
+
+Hope Eradicated[]
+On Hope Eradicated difficulty, many additional strong enemies spawn, such as Golems, armored Fleshrats, more Security Redefined, and even additional NPCs wielding the ZKZ Transactional Rifle. Extreme Caution must be exercised when playing on Hope Eradicated, as the already hard Trauma Loop can easily become overwhelming. The best way to tackle Hope Eradicated difficulty would be to kill the Limit Chancellor while playing on normal, and then re-running through the level using the best implants you have.
+
+
+Loot[]
+Trauma Loop has two important secrets: one weapon, and one implant.
+
+Weapons[]
+Trauma Loop has various weapons, including the Parasonic MP-1 Nailer, Security Systems Anti-Armor Device, and Mowzer SP99. However, at this stage in the game, it is likely the player already has these weapons. Instead, one new, unique weapon is located within Trauma Loop.
+
+Abscess Ironworks Lux ff374f727ce9d6de93be0793733c321[]
+The Abscess Ironworks Lux ff374f727ce9d6de93be0793733c321 is a weapon only available in Trauma Loop. It's located on the "Bottom" portion of the map, in a small building surrounded by toxic water. Starting from the elevator tower from the "left" path, turn left and walk straight, until you see the toxic water. Keep heading in the same direction, avoiding the water, until you see the building. The door inside is located on the face of the building closest to the wall. Simply walk in and grab the weapon off of the table, and beat the level, and it's yours.
+
+Equipment and Implants[]
+Trauma Loop features one implant, the Biojet. The Biojet is located in the "Right" portion of the map, in the vat that you must descend to reach the "Bottom" portion. It's on a board close to the top of the vat. Simply grab it and you will unlock it. It's highly recommended to kill the Ambassador before going for the biojet, as he has overwatch over the platforming section that leads to the vats area, and will snipe you from well outside the game's view distance. However, his weapon, the ZKZ Transactional Rifle, Can be made completely useless if the player sells all their holdings before meeting him, as the ZKZ scales to the player's holdings, regardless of who is using it.
+
+Ending Cutscene[]
+Upon reaching the Cradle of Life, the level is finished, and the third ending is played. The ending takes place in what seems to be the "bottom" portion of Trauma Loop, and shows the Protagonist walking towards a yellow "DEATH" health indicator, with various other people in suits. Many images flash on screen, such as the face of the Handler, and the images when changing difficulty, before text appears. The text reads as follows.
+
+"A point in the horizon, a melting scene from your childhood. Your mortality is showing. A frantic drift towards nothing, biology doomed to an infinite recursive loop. Teeth with teeth with teeth. Take a bite. Serene scent of a coastal town, warmth of the sun. Bitter tears. Lust for power. This is where you abandoned your dreams. You are a high net worth individual, an expanding vortex of pathetic trauma. Finally a beautiful fucking nerve ape. A pure soul is born, its neurotransactions stutter into being. 30583750937509353 operations per nanosecond. Beauty eludes your porous mind."
+
+"The value of Life is negative. The balance of being is rotated by 38 degrees. The surface is full of cracks, a turgid light shines through. Fleshy primordial bodies sluggishly roll down the slope. Only you slide upwards, with a celestial step. You become beautified, a saintly figure. Your pristine idiocy reveals a safe path through the impenetrable fog of Life. Your dull sword cuts through the weak tendons and membranes of the garden of corruption. Sit on the throne of contentment and ferment. Inspect the eternal blue skies of your kingdom. You come to a realization. You pick up an onion and begin peeling."
+
+"Onion layer one. Onion layer two. Onion layer three. Onion layer n^n. Aeons have passed and the onion is fully peeled. Nothing remains. It's perfect. You get lost in the point that remains where the onion used to be. Synaptic cascade, neurological catastrophe. The point becomes infinitely dense, the universe condenses into a unicellular being. It screams sin. It craves happiness. It's done with this world. It tries to commit suicide but fails. Sad pathetic mess. You feel pity and disgust but in a way only a being of pure grace can. In your violent mercy you terminate the worldlife."
+
+"The living organism, in a situation determined by the play of energy on the surface of the globe, ordinarily receives more energy than is necessary for maintaining life; the excess energy (wealth) can be used for the growth of a system (e.g., an organism); if the system can no longer grow, or if the excess cannot be completely absorbed in it's growth, it must necessarily be lost without profit; it must be spent, willingly or not, gloriously or catastrophically. - Georges Bataille"
+
+After this, the game exits to the title screen.
+
+Fish[]
+There are many water pools to fish in within the level, including the toxic water in the cave during the "left" section of the level, the large toxic barrels in the "right" section of the level, and the multiple puddles of toxic water in the "bottom" portion of the level. Fish found in Trauma Loop include:
+
+Head
+Mistake
+Human
+Psychofish
+Gloomoid
+Deltaforce
+Soul (Must be in Hope Eradicated)

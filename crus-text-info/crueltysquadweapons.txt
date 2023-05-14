@@ -1,0 +1,371 @@
+Weapons in Cruelty Squad
+
+The completed weapons menu, after unlocking every weapon.
+
+There are many different Weapons in Cruelty Squad. Mostly firearms, each has unique properties and characteristics, and are each useful in different scenarios. Even the best weapons in the game have flaws and can be useless given the right circumstances. The player is able to choose two different weapons prior to starting a mission.
+
+To unlock a weapon for future missions, the player must find it in a mission and then complete the mission while holding it. Most weapons can be picked up from enemies, but some must be found in hidden areas, usually requiring some kind of movement implant to acquire. The Flashlight and Fiberglass Fishing Rod can be selected as weapons, even though there is no way to harm enemies with them.
+
+By default, the player is able to use the Parasonic D2 Silenced Pistol, K&H R5, SNOOZFEST Animal Control Pistol, and the Expandable Baton.
+
+The weapons list, from left to right, top to bottom, is as follows.
+
+Parasonic D2 Silenced Pistol: 
+
+"Uses special 10mm subsonic ammunition for extremely silent operation. Popular among high-end private security and wetworks services, as well as tactical wannabes."
+
+The Parasonic D2 Silenced Pistol is, as the name implies, silenced. This means enemies will not be drawn to the sound of fire. This is especially useful when trying to be stealthy.
+It has very little recoil and bullet spread, even when repeatedly firing. Combined with its laser sight, it is extremely accurate, even from long range.
+Despite being a starting weapon, it deals enough damage to kill a humanoid enemy with a single headshot.
+Its main drawbacks are its inability to pierce armor and its low starting ammunition. Fortunately, the pistol is carried by many enemies in many different levels, which means more ammo will usually be available, and it also synergizes well with the ammunition gland.
+
+K&H R5: "A standard device for knocking people out cold. The design has been the same since the early middle ages, only the materials have been improved."
+
+The K&H R5 is fully automatic, meaning it is subject to recoil and bullet spread. Be weary of your crosshair, as it indicates how far bullets are able to spread. It may be best to fire in bursts, to allow the spread of the weapon to decrease.
+The weapon is capable of instakilling humanoid enemies with a single headshot.
+It has no form of scope or laser sight, nor a suppressor, nor the ability to penetrate armored enemies. It is the absolute baseline when it comes to weaponry. As such, it most likely won't remain in your loadout for long as anything else is an upgrade.
+Don't be afraid to expend ammo with this weapon, as not only does it start with a lot, but there will almost always be more ammo obtainable from a guard.
+
+SNOOZFEST Animal Control Pistol: "As the cost of human life is low, there has been no real attempt to create a tranquilizer gun for security or military needs. Some have however adopted these animal control pistols as a less messy way to get past overly vigilant security."
+
+The SNOOZFEST is useful when taking down the Cruelty HQ target. Repeatedly tranqing the target helps make things much easier when dumping damage into them with a high damage weapon and the Ammunition Gland.
+The sleep dart projectile itself suffers from heavy bullet drop at even a short distance, mid to long range targets require you to compensate by aiming above them.
+This weapon synergizes well with the Ammunition Gland, since it has such low ammo. It takes 5.5 seconds to regenerate a shot after firing
+This weapon is one of the few in the game that does not suffer an accuracy penalty while leaning, making it possible to line up consistent shots while staying out of sight
+You cannot refresh the minute long knockout duration by shooting enemies again while they are asleep, they will wake up at the 1 minute mark no matter what
+It is possible to grapple to the dart projectile using the grappendix.
+
+
+Expandable Baton: "A standard device for knocking people out cold. The design has been the same since the early middle ages, only the materials have been improved."
+
+The Expandable Baton, similar to the SNOOZFEST Animal Control Pistol, is only capable of knocking enemies out, rather than killing them. This means it is a nonlethal option.
+The baton is incapable of effecting enemies who have noticed the player. Additionally, once an enemy is knocked out once, they cannot be knocked out again. It could be seen as a sidegrade to the SNOOZEFEST, trading the ability to knock out aware targets with endless ammo.
+This does however mean that the SNOOZEFEST paired with the Ammunition Gland is superior.
+The baton is unable to affect certain enemies.
+To use it, it must be "charged" by holding "fire". Releasing "fire" will swing the baton. "Fire" must be held for long enough to get the baton over the player's head for the swing to be effective.
+It can also be used to "Baton Jump" by jumping and hitting the floor below you at the same time, similiar to kick jumping.
+
+
+
+Balotelli Hypernova: "Following the rapid proliferation of advanced high quality body armor and the subsequent move from traditional buckshot to more effective flechette based shells, Belatelli Hypernova has proven to be the most cost effective solution."
+
+he Balotelli Hypernova is a pump-action flechette shotgun that does significant damage to enemies in the earlier missions, justifying the small magazine size, overall ammo, and slow fire rate. Ammo problems can be offset via the ammunition gland.
+
+The Hypernova can efficiently take down isolated, unarmoured enemies from close to medium range. Its slow firing rate is a key vulnerability and will leave you exposed if you're facing two or more baddies.
+
+
+Riot Pacifier: "Fires a grenade filled with corrosive gas. Eats through almost everything. Hasn't seen much use since the food riots of the early 00s."
+
+Launches a cluster of gas canisters that release clouds of harmful green gas, doing damage over time to anything that stands in them. Extremely powerful and able to punch through doors and windows before detonating, but the shot trajectory can be tricky at longer ranges. It can make short work of organic targets, however on anything armored, such as Golems or Necromechs, it will have no effect aside from alerting them until their armor has been broken using other means.
+
+The Riot Pacifier is identical to the Russian RGS-50M grenade launcher, but with a green biohazard symbol on both sides.
+Location
+Can be found in the level Androgen Assault, at the end of the crazy room through several green skull doors. Be careful picking it up because the floor with drop out from under you, requiring that you restart the level if you're not equipped for climbing.
+
+
+New Safety M62: "Standard police issue handgun for more than a hundred years. While more efficient options exist the cops have decided to stick with this due to masculine associations created by the film industry.
+A hard hitting revolver with significant recoil, it takes some time between the trigger pull and actual firing of the weapon, making the fire rate very low.
+
+Bullet automatically ricochets twice, (even without Angular Advantage Tactical Munitions), leaving three bullet holes. Can damage you for 15 damage if the ricocheting bullet hits you.
+
+Location
+Is usually carried by cops, psychos and other minor enemies in various levels.
+
+
+Minato M9:"Imported in great quantities by people of taste after being featured in the anime Haato no DokiDoki: Zankokudan."
+A submachine gun with a silencer and an extremely fast rate of fire. Like the Parasonic D2 Silenced Pistol, it has a laser pointer to make leaning shots slightly more accurate. It deals moderate damage but consumes ammo incredibly quickly, so it's best used with quick trigger taps and precise headshots to maximize effectiveness.
+
+Location
+The Minato M9 is held by the target in the Sin Space Engineering mission. It can also be found in a shipping container in that mission.
+
+K&H X20:The Karl & Heinrich X20 immediately became a huge hit with elite security. It fires extremely accurate 3 round rapid fire bursts with very manageable recoil. The rounds are completely caseless meaning it can hold a large amount of ammunition without becoming cumbersome to carry, and doesn't leave behind as much evidence.
+
+Fires a three-round burst and comes with an integrated scope for long range engagements. 45 round magazine and additional 90 rounds in reserve allows for a good shot to not exhaust their ammo.
+
+Usage
+It has enough power to kill normal human enemies in a single burst.
+Its large ammo count makes it useful in long engagements.
+Like mentioned above, has an integrated scope that makes your vision grey-scale.
+
+Location
+Carried by Security Elites in most missions. At the earliest, can be obtained from the guard in the upstairs bathroom in Pharmakokinetics.
+
+
+Stern AWS 3000: "The AWS 3000 uses a special sabot round with a 30 cm long depleted uranium penetrator. It is of course designed to counter armored targets but when it hits something soft it often tumbles and leaves more wound channel then target."
+
+The Stern AWS 3000 is a bolt-action high caliber rifle for extra-long range assassinations.
+
+Usage
+Being a sniper rifle, it has extremely high damage, capable of instagibbing normal enemies with a single shot anywhere. There's no need to aim for headshots, instead aim for center of mass.
+The weapon is high-penetration, meaning it can tear through multiple enemies at once, and is capable of damaging targets with armor, such as Shocktroopers, Golems, and Necromechs.
+The small ammo pool can be completely negated with ammo gland usage, as the rounds replenish faster than the AWS can be fired.
+The Stern AWS 3000 is one of three weapons in the game with a genuine scope, along with the K&H X20 and Mowzer SP99. When you aim down the sights, these weapons have much further optical zoom, gain an extra horizontal line through the reticle, and the screen turns black and white. The weapon is best used from far away, to counter potential tunnel vision.
+However, if it is raining, fog will completely obscure your view after a certain distance. If you are dedicated to using a sniper, it would be best to restart a level if it is raining.
+
+Locations
+In Paradise, it can be found at the top of the large building in a compound behind the block of houses where the targets are. Its location has a direct line of sight to two of the targets, and can be used for easy kills.
+In Apartment Atrocity, it can be found on a table in a room one floor down from the start of the level. The window on this floor can be broken and gives a direct line of sight to the street below, and can be used to eliminate many of the enemies guarding the exit, including the Necromechs (if you're willing to spend the ammo.)
+In Idiot Party, it is used by certain enemies in the level. The enemies face out of windows towards the center of the fortress, and are located on different sides of the fortress and on different floors. If you're able to pick up one Stern AWS 3000, it's best to use it to kill the remaining snipers.
+
+
+Security Systems Anti-Armor Device: "At some point arms manufacturer Security Systems managed to convince the world that it was absolutely necessary for corporate security to possess military-grade rocket launchers."
+
+The Security Systems Anti-Armor Device is a classic rocket launcher, fires a slow traveling armor-piercing round that explodes on impact and can launch targets that survive a significant distance.
+
+You can also rocket jump with it, especially if you have the Tactical Blast Shield Implant which negates all blast damage from the weapon.
+
+Location
+In Pharmakokinetiks, if you have a Divine Link established, you can go through the white door with red spots on it in the room next to the target's room. It is sitting on top of the tree, which you can also get to with a jump boost.
+
+Found in the blue building across the street from the targets in Paradise, on the second floor in the first room on the left.
+
+One can be found in the Gun & Gear store in Mall Madness.
+
+Found in the top floor of the house directly right of you in Darkworld, used by a Darkworlder.
+
+
+AMG4: "Traditionally a weapon of the highly augmented military grunt, it has recently seen increasing use in the corporate setting. Extremely high rate of fire and good armor penetration thanks to the DU rounds it usually comes with."
+
+A light machine gun with anti-armor capabilities, does a lot of damage and is great for taking out some of the bigger enemies or clearing a room of many smaller ones. It has no bullet spread when fired continuously (even if the crosshair indicates otherwise), making it very accurate. However, the recoil can be tough to control
+
+Location
+Wielded by the Necromechs in various missions, notably Mall Madness and Apartment Atrocity.
+
+Also carried by some human enemies guarding the target in House, Idiot Party and Office.
+
+
+Precise Industry AS15: "A fully automatic shotgun capable of tearing almost everything into shreds up close. Complete overkill but popular with killers emotionally dulled by battle drugs."
+
+Extremely high damage at close to mid range, but goes through ammo quite quickly if used at full auto. Synergizes extremely well with the Ammunition Gland.
+
+Location
+First found in Mall Madness, in the Pizza House on the first floor of the first dome of the mall. It will be the only open shop on this floor of this mall section.
+
+Wielded by enemies in Apartment Atrocity and Casino Catastrophe.
+
+Mowzer SP99: "Accurate and extremely silent bolt-action sniper rifle. Perfect for covert and illegal operations. An important symbol of the swamp cultist who claim to receive divine messages from them."
+
+Usage
+Despite being a sniper rifle, it doesn't do a lot of damage. It's important to land headshots with it, or else it will take multiple shots to kill enemies. Additionally, it has no armor penetration, meaning it cannot damage Shocktroopers, Golems, or Necromechs.
+This weapon is suppressed, meaning that firing it does not alert enemies. This can be useful when trying to avoid detection.
+It can be seen as a sidegrade to the Stern AWS 3000. It deals less damage and lacks armor penetration, but in return is silenced and has more ammo.
+The Mowzer SP99 is one of three weapons in the game with a genuine scope, along with the K&H X20 and Stern AWS 3000. When you aim down the sights, these weapons have much further optical zoom, gain an extra horizontal line through the reticle, and the screen turns black and white. The weapon is best used from far away, to counter potential tunnel vision.
+However, if it is raining, fog will completely obscure your view after a certain distance. If you are dedicated to using a sniper, it would be best to restart a level if it is raining.
+
+Location
+The Mowzer SP99 can be found in three locations.
+
+Firstly, it can be found in Seaside Shock, near a window across from the first target. It is guarded by a guard with a Parasonic D2 Silenced Pistol.
+Secondly, it can be found in Bog Business, being wielded by several Swamp Cultists throughout the map.
+Lastly, it can be found in Casino Catastrophe, Either as a reward from the GunMachine or being wielded by a Swamp Cultist within the sewer section of the map.
+
+
+Security Systems Cerebral Bore: "Security Systems have done it once again. This incredibly high tech vat grown bioweapon is itself a small biobreeder, capable of creating a small burrower flesh orb that goes for the target's head and empties it on the floor. For energy it sucks some life force out of the user. Neat huh?"
+
+The Security Systems Cerebral Bore is of the secret weapons in the game, it fires an orb that homes in on the first head it can find and bores into the skull causing instant death. You have to be careful firing this weapon as it deals a few points of damage instead of taking ammo. Very slow fire rate.
+
+The Cerebral Bore is one of two available weapons created by Security Systems, the other being the Anti-Armor Device.
+
+Location
+In Idiot Party, on the third floor. Right above the spinning platform is an invisible walkway that you can run across to get to the bright blue room with a chandelier. The gun is on the floor.
+
+It might be helpful to shoot the invisible walkway as your bullet holes will appear on it, but it is a straight path without any gaps that you have to worry about.
+
+Usage
+The bore is fire-and-forget. You can pop around a corner, quickly sling a deadly orb at the enemy and be safely in cover while it eats their brains. If you aim appropriately you can arc the shot around corners.
+Hits are not guaranteed, and even when the bore finds an enemy it takes a second or so to kill them, during which time their last moments might be spent gunning you down.
+
+
+Spectacular Dynamics MCR Carbine:"A futuristic microcaliber platform that never reached a huge popularity despite many advantages. Uses strange factory sealed disposable magazines and proprietary caseless ammunition."
+The Spectacular Dynamics MCR Carbine is an assault rifle in Cruelty Squad
+
+Usage
+The Spectacular Dynamics MCR Carbine is notable for being an extremely fast weapon, firing at around 1800 RPM. However, it has a large amount of recoil and bullet spread. It is best used when fired in short bursts, to ensure the weapon stays accurate.
+The weapon is especially hard to get ammo for, as it is not found in early levels, and does not synergize well with the Ammunition Gland. To make up for this, it starts off with 150 rounds.
+The weapon deals lower than usual damage, but is still capable of killing humanoids with a single headshot.
+Location
+The Spectacular Dynamics MCR is first found within Idiot Party, and is used by many of the Elites within the level. It is also found within Archon Grid.
+
+
+
+Bolt ACR: "The goal of the Advanced Combat Rifle program was to create an energy weapon that wouldn't need to be reloaded at all. One of the results was this unfortunate portable gamma radiation emitter. Though often said to be illegal due to international agreements regarding radiation based weapons (no such agreements exist), the reason it never got much use is that most of the test subjects ended up accidentally killing themselves."
+
+The Bolt ACR is a unique weapon that fires blue clouds of gamma radiation.
+
+Usage
+The Bolt ACR is comparable to the Riot Pacifier, since they both fire clouds of gas that do damage over time. However, the Bolt ACR fires them directly, instead of firing grenades that emit the gas. This means it's a lot easier to aim and know where the gas is, compared to the chaotic behavior of the grenades of the Riot Pacifier. On top of this, the Bolt ACR does a lot more damage, the clouds last a lot longer, and the player can become immune to the clouds after activating DEATH mode in Pharmakokinetics.
+The weapon has infinite ammo, and is used by holding down the fire button. A cloud is created about once every 0.7 seconds.
+The radiation clouds don't travel far, meaning the weapon is best used in closer quarters. However, they are capable of propagating through walls, and are usually large enough to block doorways. Combined with the seemingly indefinite duration of the clouds, the Bolt ACR is a very powerful tool for area denial.
+Clouds can be shot at the exact same area to increase the damage applied. Each cloud will deal it's own damage to any enemy within. However, having a large amount of clouds active at once may begin to lag the game, especially on older devices.
+Taking damage from the radiation clouds does not alert enemies.
+Radiation damage does not bypass armor (even against Shock Troopers, which clearly have their face exposed...).
+When creating a radiation cloud, the Bolt ACR fires a thin ray, with the same range and wall-piercing abilities as the radiation cloud it creates. This ray, unlike the radiation clouds, does alert enemies if they get hit by it. It is also capable of doing headshots, allowing it to take out Shock Troopers.
+When using the Cortical Scaledown+, the range of the ray/clouds are unchanged. However, the thickness of the clouds are now scaled to your size. This can be useful to get an overall hang of the weapon's range, but otherwise, makes it fairly useless.
+The gun emits a blue light which help in dark areas though the radiation clouds can make things hard to see. This makes it a good weapon to have in the Darkworld.
+Using this weapon with the Life Sensor makes most missions incredibly easy, as all you have to do is spray clouds at the green dots.
+
+Location
+Found in Office, in a cubicle located on the first floor (second, if you count the ground floor as "first"). Before getting it you must go up the stairs of the Number 2 cubicle on the bottom floor and kill at least one civilian or enemy and then walk across the bridge to the Number 1 Cubicle.
+
+
+Parasonic C3 DNA Scrambler: "High value targets often have immediate access to body reconstruction services and as such it has become a popular choice to mangle their genetic makeup beyond all repair with a hi-tech weapon like the Parasonic C3."
+
+The DNA Scrambler is a secret weapon that turns vulnerable enemies into a static explosion of guts, instakilling them. The strands of spheres of viscera cannot be passed through, but they can be kicked away or shot by most weapons, dropping multiple standard gibs per strand. Along with the fully-powered ZKZ Transactional Rifle, it is one of only two weapons capable of permanently killing Zombies.
+
+The weapon is completely ineffective against Golems, Shocktroopers (even if hit in the eyes), and Necromechs. It is silent and lacks regular kinetic impact, meaning it is unable to break glass, doors, vents, or other objects. Those killed by the Scrambler will have their weapons and harvestable organs destroyed.
+
+Location
+In Pharmakokinetiks, to the right when you start the level down the alleyway. You can get past the fence door with an HE grenade, jump boost, or you can find your way through a window and door farther into the level.
+
+You need a jump boost of some kind to reach the weapon's room from the dirt room, such as the Icaros Machine, Grappendix, rocket jump, or the Abominator. With enough finesse, it's also possible to walljump to the room using DEATH Mode. Even craftier players can get there by stacking every prop in the map and kick-jumping from the stack to the platform.
+
+
+Stern M17: "Winner of the advanced combat rifle program. Has widely replaced most other rifles in elite military use. Rapid three round burst of flechette rounds significantly increases hit probability."
+
+The Stern M17 is a three-round burst, saboted flechette rifle.
+
+Usage
+The Stern M17 is most comparable to the K&H X20, acting mostly like a sidegrade. While it does not have as much ammo as the K&H X20, and also lacks the scope, it has much tighter bullet spread and more damage, enough to pierce armor.
+This gun is the only gun in the game capable of both burst fire and fully automatic fire. Tapping the fire key fires a 3-round burst, while holding it fires the bursts in quick succession. Be careful about firing however, as ammunition for this weapon will not come easily.
+Overall, the Stern M17 is well suited for general use at closer ranges, but can be turned into a long range elimination tool with the help of the Zoom-N-Go Bionic Eyes.
+
+Location
+The Stern M17 is wielded by the Shocktrooper enemy, which can be found in various levels throughout the game, as well as randomly placed in levels while on the Hope Eradicated difficulty. Most notably, they are located in Alpine Hospitality, and Miner's Miracle. Additionally, a Shocktrooper is guaranteed to spawn at the start of Archon Grid on Hope Eradicated, right in front of the Divine Link shrine. Shocktroopers are armored around their entire bodies, except for their eyes, so bring a strong weapon or very good aim. Another good option to kill Shocktroopers is to use the Riot Pacifier or the Bolt ACR, as the gas clouds from either will completely ignore the armor of a Shocktrooper.
+
+BAG-82:"Strange experimental caseless pistol created by an ancient civilization. Foul odour, who knows where this has been."
+
+The BAG-82 is an unsuppressed semi-automatic pistol.
+
+Usage
+The BAG-82 is an extremely accurate gun. It has almost no recoil and no bullet spread, even when fired repeatedly. Its near-pinpoint ballistic trajectory gives it virtually infinite effective range. It deals enough damage to reliably instakill humanoid enemies with a headshot, but can take upwards of five shots to kill when aiming for center of mass. It is best paired with the Zoom-N-Go Bionic Optics.
+It can be seen as a sidegrade to the Parasonic D2 Silenced Pistol, offering a much larger ammo supply at the cost of the suppressor.
+
+Location
+Held by Transnistrian Fleshmen, a high-tier enemy found within Miner's Miracle. They may randomly spawn in any other level, much like Necromechs, Darkworld Assassins and Psykers. Fleshmen regularly spawn on Cursed difficulty.
+
+
+
+
+BN-99: "A mysterious weapon lost to time. Made out of an accursed alloy. Has a unique two shot burst firing mechanism."
+
+The BN-99 is a burst-action assault rifle. It is unique in that it fires two rounds instead of the usual three. The Darkworlder enemies that wield this gun can do a lot of damage at long range with it.
+
+Usage
+The BN-99 is a great all-around weapon. It has high damage, capable of instakilling normal enemies with a single burst to the torso. Recoil is very manageable and encumbrance is moderate, so it's easy to keep on target. It is quite economical with ammunition, which makes up for the limited reloads available in most levels. These traits make it a powerful and forgiving weapon.
+Despite being very useful against most enemies, it cannot penetrate armor.
+Overall, the BN-99 rewards efficient gameplay with a great tool to get the job done, and is best paired with a weapon like the AMG4 or the Security Systems Anti-Armor Device to ensure armored enemies can be dealt with.
+Location
+The gun is used by the Darkworlder enemy, which can be found in various levels. Obtaining the gun is as easy as killing one and picking it up off the ground. The best place to go to unlock the weapon would be Darkworld, where there are dozens of hostile Darkworlders. They can also be found inParadise, Bog Business, and Alpine Hospitality, although the enemy is usually alone and hidden somewhere within the level.
+
+
+
+
+Zippy 3000: "The ultimate weapon, in ejection failures and misfires. You'll be lucky to get two shots out of this thing without blowing off your fingers."
+
+Usage
+The Zippy 3000 is unique in that it has a 1/3 chance to fire correctly, a 1/3 chance to fail to feed a bullet, and a 1/3 chance to misfire and deal 1 damage to the player.
+In terms of actual usage, it has a very slow time between shots and a staggering amount of recoil. It has no form of laser sight or scope, and no suppressor.
+The Zippy 3000 isn't all bad, though. It does deal enough damage to instakill a humanoid enemy with a headshot, and it has no bullet spread (when you're lucky enough for the gun to fire consistently). It also has one of the largest pools of ammunition in the game, at 210 bullets.
+
+Location
+This gun can only be found in Casino Catastrophe. At the back of the casino is a large slot machine that pays out with weapons. It has a 1/500 chance of dropping the Zippy 3000 as its jackpot. The best way to ensure you're able to get the weapon is to amass a fair amount of money, as each play of the slot has a $10 fee. Also, make sure to kill as many enemies in the level as possible, to ensure you're able to escape without being killed and losing the gun. The best exit to take is the exit attached to the sewage system to the left, but make sure you have enough health to endure a couple ticks of Toxic Shock. Another solid route is to kill all of the cops surrounding the casino after you eliminate the target before hitting the slot machine, and leaving from the front entrance.
+
+
+Flashlight: "A simple flashlight, not very useful. Or is it?"
+
+The flashlight is incapable of damaging enemies. It's sole purpose is to emit light, which is useful in the Paradise catacombs and Darkworld. The flashlight can be replaced by the Night Vision Goggles implant as soon as it is obtained.
+"Fire" toggles the flashlight on and off.
+
+Usage
+The flashlight is incapable of damaging enemies. It's sole purpose is to emit light, which is useful in the Paradise catacombs and Darkworld. The flashlight can be replaced by the Night Vision Goggles implant as soon as it is obtained.
+"Fire" toggles the flashlight on and off.
+
+Location
+The Flashlight can be obtained in one of two ways.
+
+Firstly, in Androgen Assault, there is a secret Darkworlder enemy holding the flashlight. To acquire it, he must be located and killed. From the start of the level, turn right, and then right at the first alleyway, that heads upwards. Take a left into a building without a door, and then jump out of it's window on the left side, where you will land on a ledge. Follow the ledge to the building with the Darkworlder. Alternatively, you can use a movement implant to ascend the building.
+Secondly, in Casino Catastrophe. The Flashlight is a potential drop from the Gun Slot Machine.
+
+
+Fiberglass Fishing Rod: "Enter the World of Fish and become who you were meant to be."
+
+The Fiberglass Fishing Rod is a fishing rod in Cruelty Squad.
+
+Usage
+The Fiberglass Fishing Rod is used primarily to fish. Simply hold down "fire," and when the rod is above your head, release to cast it. The rod must be cast in water to actually fish, otherwise, it will simply retract. Wait for a fish to bite at where you cast, and when you get a bite, "fire" again to reel in the fish. Some fish will be harder to catch as they might leave the hook sooner.
+It also has the ability to reel the weapon out of an enemy's hand. Simply cast the rod at the enemy, and they will be disabled.
+This does not work on the HQ Target.
+
+Location
+The Fiberglass Fishing Rod is located within Sin Space Engineering. From the spawn, simply turn around and swim to the island in the distance. The rod is on a table within the house on the island.
+
+
+RPO-80 Sanitization System:"Janitorial work in the age of bioprinters and homebrew infectious disease follows these simple rules: Contain, Purify, Control."
+
+Throws flames that burn enemies that touch it, making them run around frantically before dying. Enemies that survive a burning (I.E. a Necromech or Golem) cannot be burnt again. Also allows you to cook enemy and civilian giblets for 5 health without needing Power In Misery. It can be used to kill enemies while the Cortical Scaledown+ is equipped, allowing effective invincibility.
+
+It is also able to cure Toxic Shock when eating a cooked giblet. It works fantastically well with Ammunition Gland and the DNA Scrambler Providing around 12-20 giblets which provides 60 to 100 health .This is useful in the mission Miner's Miracle where most enemies and civilians are Fleshmen.
+
+Location
+The weapon can be reached by going to the right after climbing the starting stairs nearby the right side of the building is a ledge and if you fall down there will be a small ledge of snow underneath the wooden ledge and if you move forward there will be a cave which has the flamer inside
+
+
+ZKZ Transactional Rifle:"Primordial weapon attuned to the beating heart of the financial system."
+The ZKZ Transactional Rifle is a high-speed semi-automatic rifle. It is notable for dealing additional damage the more money the player has invested in the stock market. This scales with holdings, not shares.
+
+This holds true regardless of who is holding it, so enemies equipped with this rifle can be made harmless by selling all your stocks before meeting them.
+
+Usage
+At its base power, the ZKZ is still a powerful gun, capable of instakill headshots. It also boasts little to no bullet spread and recoil, similar to a pistol.
+The ZKZ's most notable feature is that its damage scales with stock market holdings, including body parts and fish. The more money you have invested in the markets, the more damage it deals, and eventually the further away it can instagib enemies from.
+The ZKZ's damage seems to cap out at exactly $1,000,000 in shares. When this number is reached, a high pitched sheen sound is overlaid over the normal firing sound of the weapon when the player hits something, and its gibbing radius is seemingly infinite. It's even able to gib the Undead enemy, which is normally invincible.
+The ZKZ isn't the definitive best weapon, however, and does have downsides. Firstly, it has no scope, laser sight, suppressor, or even armor piercing. This means that aiming it at longer ranges can be hard, enemies will be able to hear you fire it, and worst of all, it's completely ineffective against Shocktroopers, Golems, and Necromechs. The Zoom-N-Go Bionic Eyes will help with aiming, but there's nothing you can do regarding sound or armor penetration.
+Additionally, the weapon doesn't have the most ammunition, and there's no way to replenish it by default, as it's not located in any level (Aside from Cruelty Squad HQ and Trauma Loop). The Ammunition Gland or Load-Bearing Vest can be used to gain extra ammo.
+Location
+Hidden in Cruelty Squad HQ. Requires cursed mode, Death. Go through the cursed door and make your way through the enemies up the stairs and to the intersection in the hall. Take the spiral staircase to the right, and move into the wooden maze, but just go straight ahead to the dead end. There is a secret door there, enter it and look up to find a door in the ceiling. You can go go back to the back-left closet behind the lobby to pick up barrels, bring them back and stack them to enter the door, or use the Abominator, Grappendix, or Icaros Machine to jump through. Travel up along the bookshelves and platforms, past the Psycho. There will be a door in the wall, up against the ceiling, leading into another room with a unique Golem. Be very careful when you kill him, as he will drop two flechette grenades that obliterates anything in the room. Fall down a medium length shaft and kill the man with a rocket launcher, the ZKZ will be on a table behind him. It is possible to reach this point with only the Vertical Entry Device, but making it out will require an extremely precise jump without the aforementioned items: by kicking the floor and jumping at the same time to achieve a slightly higher jump, and then performing a wall-kick via Death Mode to make it back to the entrance door at the top of the shaft. It is recommended to have some form of fall damage mitigation if you intend to perform this technique, but you can simply perform another wall-kick to negate your fall damage if you can react fast enough.
+
+Exiting through the entrance to the level will not cause the rifle to unlock, you must kill the target and get the second ending to add it to your arsenal. However, this will prove easy if you've prepared an adequate financial portfolio beforehand.
+
+Trauma Loop features an NPC known as "The Ambassador" who carries the rifle. Once he is killed, his ZKZ is yours to take for the remainder of the level. Another NPC with this weapon spawns on Hope Eradicated near the start of the level, on the Left Path overlooking the ladder that appears after using the book to open the secret passage/elevator.
+
+Parasonic MP-1 Nailer: "Parasonic's new personal defense weapon provides never before seen firepower in a compact form factor. Fires ultra high velocity deplete uranium nails from a high-capacity helical magazine."
+
+Usage
+The Parasonic MP-1 Nailer is a powerful stealth option, as it has both a laser sight and suppressor. Additionally, it has little recoil and spread, so it's extremely accurate, even from long range.
+The nails do little damage on their own, so taking down non-humanoid enemies may be challenging without using a lot of ammo. The nails are capable of piercing armour, but well protected targets might take an unacceptable chunk of your magazine to crack.
+The weapon comes with more ammo than any other weapon in the game, but it will be impossible to refill in most levels and will go down fast unless you're able to reliably get headshots.
+The weapon has a absurdly high rate of fire. You should often use tap fire in normal circumstances and only full-auto in the emergency situation when you need to spray and pray at the enemies. It is recommended to bring another weapon with low rate of fire or semi-auto weapon in case of facing the psycho and it's effect.
+The Nailer can break through cracked walls. This can take nearly a full mag (~70 rounds) to break the barrier, but it's possible.
+Location
+The Parasonic MP-1 Nailer is used exclusively by the Security Redefined guards in Neuron Activator and Trauma Loop.
+
+
+Raymond Shocktroop Tactical: "A compact but powerful semi-automatic shotgun, popular in the law enforcement business for clearing out regenerative art communes."
+
+Usage
+The Raymond Shocktroop Tactical is an extremely powerful weapon, with each shot shooting around ~40 small flechettes that spray in a wide cone. The spread allows you to score easy hits at close range, at which the gun will waste unarmoured enemies. At long range it is almost completely ineffective, a key disadvantage even compared to the other shotguns.
+The weapon can fire semi-automatically as fast as you can pull the trigger, but it also suffers from a severe kick. You'll have to wrestle the barrel down to take follow up shots if you miss.
+The weapon starts with around the same ammo the other shotguns do, but there will be no way to replenish it, since it is not found in any level. If you have the ammunition gland, you can afford to be far more generous with your fire, wiping out enemies with gleeful abandon.
+The Raymond weighs as much as a pistol, and will encumber you far less than the Precise Industry AS15. In comparison, the AS15 has a tighter firing cone and hence a longer effective range, and is heavy enough to have a much more manageable recoil.
+Location
+The weapon is unique in that it has no location within any level. Instead, it is directly unlocked in the player's weapon menu after defeating the middle Triagon within the level House. It is the only weapon to be unlocked in this way.
+
+
+
+
+Abscess Ironworks Lux ff374f727ce9d6de93be0793733c321: "Bask in the golden light of your radiant path."
+The Abscess Ironworks Lux ff374f727ce9d6de93be0793733c321 is a fully automatic energy weapon, firing large orbs of slow-moving energy (relative to bullets), that pierce enemies, deal extremely high damage, and leave large distinctive spherical burns on walls.
+
+Usage
+It is extremely powerful, capable of killing even a Golem with 1-3 hits. Unlike the ZKZ Transactional Rifle, this weapon seems to be able to harm any target, not just unarmored ones.
+The shots have noticeable travel time, similar to the rocket launcher. Conversely, they have no splash damage, but a large size in their own right, requiring a certain level of finesse to aim at distant targets. The size of the shots can be reduced by using a Cortical Scaledown+.
+The projectile will pierce enemies and keep dealing damage until it hits a wall, making it perfect for big crowds of enemies.
+While it's ideal for taking down armored targets, it is not worthwhile to use this for killing unarmored targets unless one is using the Ammunition Gland. Also, this is not useful for taking down the Cruelty Squad HQ Boss, as his large health pool prevents this weapon from being practical for doing so.
+The projectile's hitbox is not as big as the projectile, so situations like the projectile hitting the target but not actually connecting are entirely possible.
+This is ideal to take out Fleshrats due to the size of the projectile, combined with the fact it can pierce armor to deal with Armored Fleshrats in Trauma Loop.
+Synergizes surprisingly well with the Ammunition Gland due to its unavailability in every level.
+The gun is the only weapon with a perfect sightline in the game, meaning the scope reticle will line up with the in-game crosshair.
+Location
+Tower within the bottom layer of Trauma Loop containing the Lux.
+In Trauma Loop, at the bottom, descend to the floor of the level carefully, and search for the poison pool with a small tower in it. The poison pools are near to the Cradle of Life, and somewhat opposite the Cradle of Life from the Limit Chancellor. There are many armored zombies in the area. The tower can be identified by the bookshelves and tables on the interior, as well as the gun lying in the center. It is hard to reach, but luckily the end of the stage is very near so that, once you have the gun, unlocking it is relatively easy.
+

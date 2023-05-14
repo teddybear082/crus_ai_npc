@@ -1,0 +1,118 @@
+House
+
+Level
+Secret 5
+NPCs
+First Triagon Guy, Second Triagon Guy, Third Triagon Guy, Brad Nemesis, Dr Horner, Jurgen Blimp, Snirby
+Unlocked	Next Secret
+Equipment & Implants	Trauma Loop
+"After 30 years of sweat and tears you've finally made it. You're a home owner now. No more landlords, no more rent. You're a master of your own destiny. Enjoy this moment."
+
+House is an unlockable level within Cruelty Squad.
+
+Contents
+1 Mission
+2 Unlocking
+3 Walkthrough
+3.1 The Triagons
+3.2 Town
+4 Enemies
+4.1 Standard Enemies
+4.2 Hope Eradicated Enemies
+4.2.1 First Target
+4.2.2 Second Target
+4.2.3 Third Target
+5 Loot
+5.1 Weapons
+5.2 Implants
+6 Fish
+7 Trivia
+8 Gallery
+Ad: (28)
+3
+Powered by AnyClip
+Privacy Policy
+Honest Game Trailers | Metroid Prime (2023 Remaster)
+Mission[]
+"Relax, you deserve it."
+
+Unlocking[]
+To unlock House, it must be purchased from the Equipment & Implants menu, found on the level select screen. House costs $1,000,000 dollars, making it the most expensive item in the game by a factor of two. The easiest way to unlock House would be to fish for a Wheel of Fortune or Wheel of Pain fish within Casino Catastrophe, as they are worth $1,000,000 and $2,000,000 respectively. Once purchased in the menu, nothing else needs to be done, and the level is immediately available for play. The description for the item is, "Your very own country house near the cozy village of Lake Green."
+
+Walkthrough[]
+House begins with the player starting at their new house. The house is mostly empty, but has many large rooms. In a bedroom on the first floor, a level exit exists. Additionally, the attic can be reached through a secret entrance in an upstairs room, via a hole in the ceiling. The only thing that exists within the attic is a Snirby, and when interacted with, he provides the dialogue, "The timeline here is under the influence of conflicting reality bubbles. There's nothing you can do about it." Going outside of the house, you can open the garage to find the player's car, also seen in Paradise. It is not required to continue, but may be faster than normal walking. To proceed within the level, you must take the path down from your house, or use the secret door covered by plants behind your house to skip to the town.
+
+The Triagons[]
+The first thing you will see on your pathway down are three wormlike entities, all perched on strange land formations. These are the Triagons, and according to the NPCs found within house, they are deities. They are harmless initially, but will attack the player if shot at. The Triagon shot will begin firing a laser at the player, similar to the boss from Archon Grid. Once enough damage is done to the Triagon, it will stop attacking, and will provide the player with a reward. The lowest Triagon rewards the player with "power" (the CSIJ Level VI Golem Exosystem implant), the middle Triagon rewards the player with "metabolism" (the Raymond Shocktroop Tactical), and the highest of the three Triagons rewards the player with "financial freedom" ($1,000,000 cash). Once fought and defeated, they cannot be fought again.
+
+Proceeding past the Triagons, turn left and up the hill. There are multiple houses here, with NPCs inside. They have various lines of dialogue, and give a bit of background to the level and area of Lake Green. Various NPCs explain how the locals don't like people with implants and are not happy that the player has moved in so close. NPCs killed within the level are killed permanently, even on replays. From here, there is a road leading directly into town.
+
+Town[]
+The town is densely populated, with many different houses, NPCs, and enemies. One large road connects the entire town, and is periodically home to enemies, who use a variety of weapons. Overall, the best way to tackle the enemies in House would be to fight them from afar, as there are many of them and they can easily overwhelm the player with their variety of weapons. There are also dogs and flesh pigs present near the middle of the town. The level has three targets, and each is located within a building. There is also an additional exit, located in a bright red garage near the first target's location.
+
+
+
+
+Enemies[]
+Standard Enemies[]
+House Villagers
+Village Grunt
+House Villagers
+Village Assassin
+House Villagers
+Village Gunner
+Flesh pig
+Flesh Pig
+Dog
+Dog
+The Triagons
+The Triagons [Boss]
+Hope Eradicated Enemies[]
+Golem
+Golem
+First Target[]
+The first target is located within a square building with many purple and green diamond-shaped windows. To enter the building, you can walk through the front door, or break a window and jump in. There are no enemies or obstacles within the building, only the first target. When interacted with, he talks about the First Triagon. His dialogue is as follows.
+
+"The first of the Triagons was born of malice. It grasped the flow of the solar terror with both hands, and perched on top of this doomed world. The germ is born.
+
+It looked up into the sun. Beyond the veil of power. It extended it's bulging vascular arms through the boundary and took it's share. The disease spreads.
+
+It assumed total control of the biological shape of things. It became a primal engine of technological progress. And so everything started to twist and turn, pulsate and pump. The infection is final."
+
+Second Target[]
+The second target is located within the large church building, on the other end of town from the first target. To enter the building, you can fight your way through the front door and room, which have many enemies, or go in through a window, or a hole in the roof. When interacted with, he talks about the Second Triagon. His dialogue is as follows.
+
+"When the second Triagon descended from the newly emerging mass of Life, the world was mired in confusion and chaos. The overwhelming clutter of biology got on it's nerves, it demanded calm. The feeding begins.
+
+It saw visions of guts, of decay and metabolism. The opportunity had come to extend a cavern of intestines deep into the ground. To start processing the glut of excess organic mass. To introduce limits to writhing and shitting. Chlorhydric acid.
+
+Existence became a scarce product, and the nervebags came to detest the limits. Suffering was born. The second Triagon was content with it's power. It was happy. Metabolic Domination."
+
+Third Target[]
+The third target is located in a complex wooden mansion, near the first target's building. There is one guard in the mansion, one guard on top of the mansion, and a particularly nasty guard located on a nearby cliff. Otherwise, all you have to do to reach the third target is to work your way through the mansion. On the top floor, there is a secret entrance through a bookshelf, and a hole in the floor leads to the room with the third target. He talks about the Third Triagon, saying,
+
+"The third Triagon was born of Death. It saw that the world was radiating excess energy. It wanted to put great things into motion. But greatness wasn't possible without value. The first transaction.
+
+It took it's blade and cut a large hole into the boundary, creating a sudden flash of high volume transactional power. And just for a moment things seeped value into themselves, assuming souls. The second transaction.
+
+The hole was quickly mended, and the overpowering transmission of value was cut short. But in that moment the seed of primordial financial might was planted, and the world took on it's transactional form. Conflict and discord emerged, and the third Triagon was ecstatic. The third transaction."
+
+After all three targets are killed, head to the level exit within the garage or back to your house to finish the mission.
+
+Loot[]
+Beating House with an S rank rewards the player with $12,000.
+
+Weapons[]
+The enemies within the level are capable of using a multitude of weapons, including the Mowzer SP99, Precise Industry AS150, Spectacular Dynamics MCR Carbine, and the AMG4. There are no unique weapons within House. The Raymond Shocktroop Tactical can be aquired by killing the medium-height Triagon.
+
+Implants[]
+House contains two unlockable implants. The first is the CSIJ Level VI Golem Exosystem, which is obtained by killing the lowest Triagon. The second is the Goo Overdrive, which is found on a pedestal in front of the town fountains.
+
+Fish[]
+There are various pools of water to fish in within the level, most notably the lake the town is named after, right at the beginning of the level. Fish found within the level include:
+
+Chthonner
+Blossom
+Helipod
+Pondman
+Fuzzoid

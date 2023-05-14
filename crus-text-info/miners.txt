@@ -1,0 +1,92 @@
+Miner's Miracle
+
+Level
+Secret
+NPCs
+Michael Brain, Second Target
+Unlocked	Next Secret
+Bog Business	Neuron Activator
+
+"The CEO of our subsidiary Godhead Heavy Industries, Michael Brain, was last heard of when he left for some silent retreat in Transnistria. Our sources say he had been suffering from severe burnout and had been talking about leaving the company. We don't know his exact location but you should start where his tracking signal went dead. Track him down and kill him, we have no use for someone so flakey. Shame as he used to be a great leader during his early days. I used to be a big fan, even had his poster on my wall."
+
+
+Contents
+1 Description
+2 Enemies
+2.1 Standard Enemies
+2.2 Hope Eradicated Enemies
+3 Unlocking
+4 Loot
+4.1 Weapons
+4.2 Equipment and Implants
+5 Fish
+6 Trivia
+Ad: (25)
+1
+Powered by AnyClip
+Privacy Policy
+Honest Game Trailers | Marvel's Midnight Suns
+Description[]
+
+The map consists of one large, open area that the player spawns into, as well as cramped corridors in the form of caves and fleshy rooms deeper into the level. The mine itself is referred to as the "meat mines" with the target Michael Brain overseeing the excavation. There are many rooms with shifting hallways and rooms that close once the player leaves them, as well as multiple pits of water that inflicts Toxic Shock, encouraging players to exercise extreme caution while trying to get to the target(s). There is an easy secret that takes the player directly to Michael Brain in the form of a mud-covered vent directly to the left of the player's spawn behind the first patch of grass. As it's pretty difficult to find, one should look for the slight incline that marks the vent or use explosives like the HE Grenade augment or the Security Systems Anti-Armor Device to blow it open. This secret path contains the Meat Golem. If the player is in Hope Eradicated, the path will also contain the Mud Castle.
+
+Enemies[]
+Standard Enemies[]
+Fleshman
+Fleshman
+Swamp Cult
+Swamp Cultist
+Swamp Cult
+Swamp Gasser
+Swamp Cult
+Swamp Sniper
+Fleshrat
+Fleshrat
+Shock Trooper
+Mud Trooper
+Psycho
+Psycho
+Golem
+Golem
+Zombie
+Zombie
+Knifer
+Knifer
+Golem
+Meat Golem
+Hope Eradicated Enemies[]
+Bouncy Castle
+Mud Castle
+Cloaked Fleshman
+Cloaked Fleshman
+Unlocking[]
+In Bog Business, there is a tunnel in a mountain wall not far from spawn; it should be relatively easy to spot. Inside is a small area with a few guards; waste them, and then look for the entrance to the level.
+
+20210808223826 1
+Front entrance to the tunnel
+20210808221603 1
+Back entrance to the tunnel
+20210808221540 1
+The entrance to Miner's Miracle
+Loot[]
+Weapons[]
+Many enemies wield BAG-82 pistols.
+
+The Stern M17 can also be found on an opponent.
+
+Early on in the level, just past the long bridge, nearing a large cliff face will switch the game to a second person view with a Stern AWS 3000 pointing at the player character; shooting will always harm the player, unless they are in cover, but pressing the weapon drop key will make the sniper drop their weapon for you to pick up. This can be done infinitely by moving in and out of the trigger area for the second person view, as every time you do so, the sniper gets their weapon back; this can also grant the player effectively infinite ammo for the sniper rifle.
+
+Equipment and Implants[]
+The Flowerchute was added to this mission in the early October 2021 update. It can be found in a canal of toxic water in the lowest point of the fleshy red area. This canal can be climbed down into from either the room with many fleshy red pillars, one of which elevates you to the same floor as Michael Brain, or from beneath the toxic water in the tall, intestinal room with the red L-junction walkway supported above the water.
+
+Cruelty_Squad_Miner's_Miracle_Location
+Cruelty Squad Miner's Miracle Location
+
+video showing location
+
+Fish[]
+Blossom
+Cthonner
+Head
+Pondman
+Engine of Chaos

@@ -1,0 +1,111 @@
+Alpine Hospitality
+
+Level
+Secret
+NPCs
+Relaxed Exec, Pissing Exec,Swamp Suite Exec, Daniel Mullins, Dark CEO
+Unlocked	Next Secret
+Seaside Shock	Miner's Miracle
+
+"Oh this is kind of a weird one, I've actually got two jobs for you rather than just one. First and most importantly, some execs of our biggest competing firms have gathered at the Opulent Gstaad Ski Resort to make some kind of business deal. Since they've decided to lock us out of this it can't be anything good, so we've come up with a plan of our own to liquidate these execs before they can cause any harm. We also received a gig from the children of the owner of the hotel, Daniel Mullins. They say he has been planning an early retirement and are afraid he is going to waste all of his money on complete frivolity, and are going to be left without any inheritance. Retire Daniel and give these kids some peace of mind. Think of it as humanitarian aid."
+
+Alpine Hospitality is the second secret level in Cruelty Squad.
+
+Contents
+1 Mission
+2 Unlocking
+3 Description
+3.1 Walkthrough
+4 Enemies
+4.1 Standard Enemies
+4.2 Hope Eradicated Enemies
+5 Loot
+5.1 Weapons
+5.1.1 RPO-80 Sanitization System
+5.2 Equipment and Implants
+6 Fish
+7 Trivia
+8 Gallery
+Powered by AnyClip
+Privacy Policy
+Honest Game Trailers | The Callisto Protocol
+Mission[]
+"Liquidate Execs
+Retire Daniel Mullins"
+
+Unlocking[]
+To unlock Alpine Hospitality, you must find the secret painting within Seaside Shock. This is a very trivial task, as the painting is close to the start of the level and requires nothing specific to enter. When you start the level, head into the main deck of the ship, and turn left, making your way all the way to the wall at the far end of the ship. Make sure to eliminate all of the guards on your way, so you can't be picked off from a distance. Once you've hit the wall, jump up and walk through it, and the painting will be right in front of you.
+
+Alpineportallocation1
+The intangible wall leading to the portrait room on Seaside Shock. Notice that the pistol's laser isn't visible on the illusory wall.
+Alpineportallocation2
+The portrait room
+Description[]
+Walkthrough[]
+Alpine Hospitality begins with the player starting in front of the ski resort. Going through the front door reveals the lobby, which has a few enemies in it, including guards wielding AMG4s and Shocktroopers. If you entered the level without a means to damage armored enemies, it would be best to use the AMG4s from the guards to kill the Shocktroopers. There are two paths from here, one to the back of the resort, which houses Daniel Mullins, and the elevator up to the second floor of the main building, which houses the hotel rooms of the executives.
+
+
+The Key found inside Daniel Mullins office.
+
+Starting with the second half of the resort, there are various rooms of enemies to fight through. There is a cafeteria and what appears to be a staff lounge, both housing multiple humanoid guards wielding weapons like the K&H R5 and Parasonic D2 Silenced Pistol. There is a stairway up from the staff lounge, that leads to the office of Daniel Mullins. When interacted with, he talks about his retirement, how he doesn't like the business, and how he should have thicker skin. He finishes the conversation by thanking the player for listening. After killing him, you can grab a key from his desk, which opens the hotel rooms of the executives. If the key is missed, you can also shoot open the doors with armor piercing weapons.
+
+Going back through the lobby and up the elevator, the second floor has a lot of enemies. Guards, Shocktroopers, and even a Golem are grouped together in the hall. It would be wise to bring the armor piercing weapons from the first floor, either the AMG4 or Stern M17 from Shocktroopers will work. After disposing of the enemies, you're essentially free to go into the hotel rooms and slaughter the executives one by one. One executive is in his bathroom, and says that all of the deals have "gone to shit." He thinks of himself as the only business minded individual among them, saying the others are more interested in relaxing. The second executive has a humanoid with a Security Systems Anti-Armor Device guarding his room. The exec is in his bathroom, in a hot tub, overlooking the mountain. He remarks about enjoying the view and says he's in no rush to do business. He figured the deal wouldn't go through even before coming, and came as an excuse to relax. He finishes the conversation asking the player to thank the owner for making such a pleasant resort. The last exec has two guards with silenced pistols. He says nothing at all about business, and instead complains about his bathroom, saying there's something in it and his security won't do anything about it. He closes the conversation asking the player to kill it, and says he will give them a million dollar reward for doing so. Going into his bathroom reveals a Zombie in the hot tub.
+
+There is also an additional floor between the first and second. It's accessible through any of the hotel rooms, through a rising and falling pillar on the bathroom floors. It resembles the catacombs from Paradise, complete with Zombies, Psychos, and even a Darkworlder. The catacombs can be used to skip the encounter with the heavily armored enemies, at the cost of being much slower and generally more annoying.
+
+In Hope Eradicated, more Shocktroopers are placed around the map, some sporting Stealth Suits. The extra target is located on top of the main hotel building. While most easily reached with some form of movement implant, such as the Grappendix, Abominator or Icaros Machine, he can be reached without them by using the elevator. If you go on the second floor and trigger the elevator to travel back down to the first floor, you can get on top of it and ride it to a secret opening to the roof. Interacting with the target, who appears to be a Fleshman, reveals that he is the one running the hotel business. He describes himself as a "dark CEO," saying he's not in it for publicity, but just for pure business. He talks about how it's a "hereditary title," and that everyone needs a job these days, even if that job is pretending to be the CEO of a company. He ends the conversation with "I'm thinking..." Killing him does produce a Fleshrat, like Fleshmen normally do in Hope Eradicated.
+
+The exit of the level is located directly behind where the player spawns. It is inside of a gondola, that appears to travel back down the mountain.
+
+Enemies[]
+Standard Enemies[]
+Security
+Security
+Security
+Security Grunt
+Office Security
+Office Security
+Office Security
+Office Grunt
+Office Security
+Office Heavy Weapons
+Shock Trooper
+Shock Trooper
+Darkworlder
+Darkworld Grunt
+Zombie
+Zombie
+Psycho
+Psycho
+Golem
+Golem
+Cult of Order Police Department
+Revolver Cop
+Cult of Order Police Department
+Shotgun Cop
+Cult of Order Police Department
+Gasser Cop
+Security, Redefined
+Elite
+Cruelty Squad (Enemy)
+Cruelty Squad Grunt
+Hope Eradicated Enemies[]
+Fleshman
+Fleshman
+Shock Trooper
+Cloaked Shock Trooper
+Loot[]
+Getting an S rank on Alpine Hospitality rewards the player with $6,000.
+
+Weapons[]
+Weapons carried by guards in this mission include the Parasonic D2 Silenced Pistol, K&H R5, AMG4, and the Security Systems Anti-Armor Device. In the catacombs, you can loot the New Safety M62 and BN-99 from the Psycho and Darkworlder, respectively. You can also loot the Stern M17 from Shocktroopers, and assuming you finish this level after you finish Seaside Shock, it's the earliest you can acquire the weapon.
+
+RPO-80 Sanitization System[]
+The RPO-80 Sanitization System is a unique, one-of-a-kind weapon located within Alpine Hospitality. It's located in a cave on the right side of the mountain, and can be reached from a ledge accessible from the start of the level. Getting back up simply requires walking further along the ledge, around a corner, and breaking a window. It leads to one of the pathways between each half of the hotel, and is a fantastic entry point.
+
+Equipment and Implants[]
+Alpine Hospitality features one Implant, the Microbial Oil Secretion Glands. The implant can be found on a slab on the top of the building, where the Hope Eradicated target spawns. Again, you can use the Grappendix, Abominator, or Icaros Machine to get onto the roof, or alternatively, use the secret passage through the elevator.
+
+Fish[]
+Icefish
+Ice Cubert
