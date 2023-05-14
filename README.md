@@ -34,7 +34,7 @@ You do need to speak English to use this mod.
 
 Convai.com is a website to create AI NPCs.  There is a very generous free tier, so while you have to create an account you don't need a credit card or anything.  When creating an account on convai.com, you can also upload background information to your character.  I have created a folder in this release called "crus-text-info."  You can use those files if you want to load the knowledge you want to your character.  I got all of the information from https://crueltysquad.fandom.com/wiki/Cruelty_Squad_Wiki
 
-Once you create your character, grab your API key and character code from the website and put them into the convai_api_key= and convai_character_id= fields of the ai_npc.cfg.
+Once you create your character, grab your API key and character code from the website and put them into the convai_api_key= and convai_character_id= fields of the ai_npc.cfg.  It's possible but untested that using your own API key but the character id I have already provided in the ai_npc.cfg will link you directly to the character I have created on convai, but I'm not sure. You could try this first and see if it works. If not, create your own character to your liking!
 
 When you create your character you can also choose the voice you want your character to have. If you want your character to use that voice, put **true** instead of **false** in the ai_npc.cfg in the line for use_convai_voice.
 
