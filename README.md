@@ -2,7 +2,7 @@
  A free artificial intelligence NPC mod for Cruelty Squad powered by whisper.cpp , convai.com and gpt4all
 
 
-**Unzip this release into a folder called "crus-ai-npc" in your mods directory: https://github.com/teddybear082/crus-ai-npc/releases/download/crus-ai-npc/crus-ai-npc.zip**
+**Unzip this release into a folder called "crus_ai_npc" in your mods directory: https://github.com/teddybear082/crus_ai_npc/releases/download/crus-ai-npc/crus_ai_npc.zip** It is **essential** that the folder be called exactly **crus_ai_npc** because the path to certain files in the folder is hard coded in the mod's files.  If you do not name the folder that likely the mod will not work.  There should be exactly one folder inside of your mods folder called "crus_ai_npc" and in that should be the mod.zip, mod.json and other files from this release.  There should not be two crus_ai_npc folders.
 
 
 **You already need to have crus modloader or crus-vr-modloader installed to install this mod.**
