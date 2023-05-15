@@ -50,7 +50,7 @@ This is a free, purely local, option for AI generated responses.  It also uses t
 
 **To change your character's personality** when using GPT4All, you can change the text in **prompt_template.txt**.  Note that different models need different prompt styles. You need to research the best style for yourself / trial and error.
 
-**To change other gpt4all options**, you can edit the **gpt4all.json**.  More information about those options are on gpt4all's website. They are also common GPT type options so google is your friend.
+**To change other gpt4all options**, you can edit the **gpt4all.json**.  More information about those options are on gpt4all's website and kuvaus's LlamaGPTJ-chat github.  Look at the "Detailed Command List" on this page for more: https://github.com/kuvaus/LlamaGPTJ-chat. They are also common GPT type options so google is your friend.
 
 When using the GPT4All option, make sure the line in ai_npc.cfg says **ai_brain_choice="gpt4all"**.
 
