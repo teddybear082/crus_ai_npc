@@ -6,5 +6,5 @@
 "threads": 4,
 "n-predict" : 1000,
 "no-interactive": "true",
-"remember": 400
+"no-animation": "true"
 }
